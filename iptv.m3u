@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="http://www.topstb.info/logo/GERMANY/ZDFHD.png" group-title="GERMANY",ZDF
+http://k13tvonline.eu:8000/50860719588757/45395072663803/76249
 #EXTINF:-1 group-title="|EU| GERMANY" tvg-id="13thStreet.de" tvg-name="13TH STREET FULL HD" tvg-logo="http://www.topstb.info/logo/GERMANY/13THSTREETHD.png" ,13TH STREET
 http://k13tvonline.eu:8000/50860719588757/45395072663803/79189
 #EXTINF:-1 group-title="|EU| GERMANY" tvg-id="13thStreet.de" tvg-name="13TH STREET FULL HD" tvg-logo="http://www.topstb.info/logo/GERMANY/13THSTREETHD.png" ,13TH STREET
