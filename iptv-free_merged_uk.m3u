@@ -1,0 +1,381 @@
+#EXTM3U
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" ,92 News UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" ,Action Movies UK
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/ld3wXkh.jpg" ,Africa News UK
+https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/BlNMp0k.png" ,Arise News
+http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/XvBi1Ou.png" ,Beano TV UK
+https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/idRFfhY.png" ,Bloomberg+ 4K  UK
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/IoltWxy.png" ,British Films UK
+https://rakuten-british-films-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/KC8FleL.jpg" ,Calm Piano Music YT
+https://linkastream.co/headless?url=https://www.youtube.com/watch?v=XULUBg_ZcAU
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/6rlt5Ph.png" ,CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/CfhXZe3.png" ,Channel 7
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-gntv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/aqMhht6.png" ,Clubbing TV UK
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/bD9jUgK.png" ,CNN Int. UK
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" ,Comedy Channel UK
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/eQKFgpa.png" ,Comedy Movies UK
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/yjIYUim.jpg" ,Discover.Film
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/dWNxCqp.png" ,Drama UK
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" ,Dust UK
+https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/6h10JDk.png" ,Edge Sport UK
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/CfhXZe3.png" ,Edgy TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/CfhXZe3.png" ,ESports24 TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-sports-eSports24tv-MB/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/sBPVCYy.jpg" ,Euronews UK
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/hboiinD.jpg" ,Family Movies UK
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/RIXSg4L.png" ,Failarmy UK
+https://failarmy-international-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="FashionTV.eu" tvg-logo="https://i.imgur.com/HBksX8u.png" ,Fashion TV
+http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/Jh3Ccrn.png" ,Filmon 360
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/aoaV9ek.jpg" ,Filmstream UK
+https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/aoaV9ek.jpg" ,Filmstream 2 UK
+https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/jUWffic.png" ,Filmzie UK
+https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/Db8nWyW.png" ,FTF For the fans UK
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/EPdeRMY.jpg" ,GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/KhdR4wa.jpg" ,Go USA UK
+https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/BVJWUpc.png" ,Hala London
+https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/FUYoZC5.png" ,Happy Kids UK
+https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/FNFFhEq.png" ,Horse and Country UK
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/XZSCpl2.jpg" ,Humanity UK
+https://alchimie-humanity-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="Inspiration TV" tvg-logo="https://i.imgur.com/AOCGKzY.png" ,Inspiration TV
+https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/ewkmZM1.png" ,Insight UK
+https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/gKhDcQY.png" ,Introuble UK
+https://introuble-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo=",Inwild UK" ,Inwild UK
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo=",Inwonder UK" ,Inwonder UK
+https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="ITV (UK)" tvg-logo="https://i.imgur.com/SsgOgRF.png" ,ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/dSPmDU7.png" ,Kid Gamer TV UK
+https://studio71-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/tjoAWyO.png" ,Kidoodle TV UK
+https://kidoodletv-kdtv-2-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/ZiVPUiT.png" ,La Muscle TV
+https://streamcdn.lamuscle.com/lamtv-origin/smil:monsterworkout-tricepspt1.smil/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/CfhXZe3.png" ,Live 360
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-live360-hsslive-25f-MB/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/8tWhfap.png" ,Luxe TV UK
+https://alchimie-luxe-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/y2oiXz6.png" ,Manoto
+https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/a2MgGmF.png" ,Mav TV UK
+https://mavtv-mavtvglobal-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/MYoNHMg.png" ,MMA TV UK
+https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/dwOoEmE.jpg" ,Movies Central UK
+https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/DTXQ3Pc.png" ,Moviesphere UK
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/b3nn216.png" ,MTA 1
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/V6uUz9l.png" ,MTA 2
+https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/C5nT9yi.png" ,MTA 3
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/SQInLji.png" ,Mytime Movies UK
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/oeV42l0.jpg" ,Noor TV UK
+https://ls1.serverdump.com/stream3.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/CfhXZe3.png" ,NTAI
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" ,PBS America UK
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/msHBlDz.png" ,People are Awesome UK
+https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/U8GADbT.jpg" ,Planet Knowledge UK
+https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/31L4TjP.png" ,Players TV UK
+https://playerstv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/CiQdnud.png" ,Pocket watch UK
+https://pocketwatch-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/qRp85O2.png" ,Press TV  (UK)
+https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/CfhXZe3.png" ,Propeller TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-propellertv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo=",Qello Concerts by Stingray UK" ,Qello Concerts by Stingray UK
+https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/z8O4Dl6.png" ,Real Families UK
+https://lds-realfamilies-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/0ydrMIj.png" ,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master_928.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/nb0Ckyw.png" ,Relevation TV
+https://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/VUlZlJe.jpg" ,Reuters Now UK
+https://reuters-reutersnow-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/cThTQ64.jpg" ,Revry UK
+https://revry-revry-3-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/AdIThwq.png" ,Revry News UK
+https://revry-revrynews-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/7kOQpqQ.jpg" ,Romance UK
+https://rakuten-romance-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="SheffieldLive.uk" tvg-logo="https://i.imgur.com/IlSYKSK.png" ,Sheffield Live 93.2 FM (Webradio)
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="RT UK" tvg-logo="https://i.imgur.com/ULzpPky.png" ,RT UK
+http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/KcPEkHh.png" ,Sangat Television
+https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/dtmm8iI.jpg" ,Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/QweV0BP.png" ,Sky 1 Racing
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/7MkX0Ct.png" ,Sky 2 Racing
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/lYCAE13.png" ,Sky Thoroughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/vfqWSHv.png" ,Sky News YT
+https://linkastream.co/headless?url=https://www.youtube.com/watch?v=9Auq9mYxFEE
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/Srxa6cR.png" ,Sofy TV UK
+https://sofytv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/p6og1yz.png" ,Sonlife UK
+https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/vTGknv3.png" ,Spark Tv UK
+https://sparktv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/trfRIem.png" ,Sports Channel Network
+https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/CfhXZe3.png" ,Sports Tonight
+https://api.visionip.tv/live/ASHTTP/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-MB/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/CfhXZe3.png" ,Sporty Stuff TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-sports-sportystufftv-MB/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/vbb3bjW.png" ,Spotlight UK
+https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/uTFF0F5.png" ,Spotlight TV
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="FreeSports.uk" tvg-logo="https://i.imgur.com/Nh4LyPv.png" ,Sports Tonight
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" ,Stingray Karaoke UK
+https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/ZjgtzL1.png" ,Sunburn TV
+https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/35BpWJh.jpg" ,Supertoons TV UK
+https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/CfhXZe3.png" ,Supreme Master TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-suprememastertv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/4gd7OvM.png" ,talkRADIO TV UK
+https://newsuk-talkradiotv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/dwMUVhs.png" ,Tastemade UK
+https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/FlCXGip.jpg" ,Teletubbies UK
+https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/84yzpXE.png" ,The Design Network UK
+https://thedesignnetwork-tdn-6-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/n3C7ytq.png" ,The Tennis Channel UK
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/WY5At0t.png" ,Thriller UK
+https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/CfhXZe3.png" ,Times Now
+https://news.sechls01.visionip.tv/live/visiontvuk-news-times-now2-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/cFlNhjV.png" ,TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/8PEf3Vn.jpg" ,Toongoggles UK
+https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/WY5At0t.png" ,Top Free UK
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/6V48LwT.jpg" ,Travel XP UK
+https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/MWkm3no.png" ,Truly UK
+https://barcroft-truly-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/bMqTNs1.jpg" ,Unearth UK
+https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/PXhzoPd.jpg" ,V2Beat TV UK
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/H8ucPJd.jpg" ,VENN TV UK
+https://venntv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/CfhXZe3.png" ,Vision TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-vtctv-MB/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/rPcFyS0.png" ,Watch4movies UK
+https://watch4movies-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/450pJvs.png" ,Wonder UK
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="N/A" tvg-logo="https://i.imgur.com/CfhXZe3.png" ,YANGA!
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-yanga-hsslive-25f-MB/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="Afrobeats247.uk" tvg-logo="https://i.imgur.com/HL7fwzt.png" ,Afrobeats 247
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="AhlulbaytTV.uk" tvg-logo="https://i.imgur.com/qLqHPhK.png" ,Ahlulbayt TV
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="AkaalChannel.uk" tvg-logo="https://i.imgur.com/62IpVDn.png" ,Akaal Channel (396p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="AriseNews.uk" tvg-logo="N/A" ,Arise News
+https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCEarth.uk" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" ,BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCLifestyle.uk" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" ,BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/eNPIQ9f.png" ,BBC News
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/eNPIQ9f.png" ,BBC News (480p)
+http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton1.uk" tvg-logo="N/A" ,BBC Red Button 1 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_01.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton10.uk" tvg-logo="N/A" ,BBC Red Button 10 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_10.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton11.uk" tvg-logo="N/A" ,BBC Red Button 11 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_11.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton12.uk" tvg-logo="N/A" ,BBC Red Button 12 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_12.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton13.uk" tvg-logo="N/A" ,BBC Red Button 13 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_13.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton14.uk" tvg-logo="N/A" ,BBC Red Button 14 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_14.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton15.uk" tvg-logo="N/A" ,BBC Red Button 15 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_15.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton16.uk" tvg-logo="N/A" ,BBC Red Button 16 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_16.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton17.uk" tvg-logo="N/A" ,BBC Red Button 17 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_17.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton18.uk" tvg-logo="N/A" ,BBC Red Button 18 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_18.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton19.uk" tvg-logo="N/A" ,BBC Red Button 19 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_19.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton2.uk" tvg-logo="N/A" ,BBC Red Button 2 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_02.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton20.uk" tvg-logo="N/A" ,BBC Red Button 20 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_20.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton21.uk" tvg-logo="N/A" ,BBC Red Button 21 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_21.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton22.uk" tvg-logo="N/A" ,BBC Red Button 22 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_22.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton23.uk" tvg-logo="N/A" ,BBC Red Button 23 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_23.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton24.uk" tvg-logo="N/A" ,BBC Red Button 24 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_24.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton3.uk" tvg-logo="N/A" ,BBC Red Button 3 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_03.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton4.uk" tvg-logo="N/A" ,BBC Red Button 4 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_04.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton5.uk" tvg-logo="N/A" ,BBC Red Button 5 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_05.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton6.uk" tvg-logo="N/A" ,BBC Red Button 6 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_06.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton7.uk" tvg-logo="N/A" ,BBC Red Button 7 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_07.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton8.uk" tvg-logo="N/A" ,BBC Red Button 8 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_08.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton9.uk" tvg-logo="N/A" ,BBC Red Button 9 [Geo-Blocked] [Not 24/7]
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_09.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="BritishMuslimTV.uk" tvg-logo="http://www.britishmuslim.tv/images/BMTV_Identity.svg" ,British Muslim TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="EDGEsport.uk" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" ,EDGEsport
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="EDGEsport.uk" tvg-logo="N/A" ,EDGEsport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="EDGEsports.uk" tvg-logo="N/A" ,EDGEsport
+https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="EmanChannel.uk" tvg-logo="https://i.imgur.com/NWljgKa.png" ,Eman Channel (576p)
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="GemsTV.uk" tvg-logo="https://i.imgur.com/9fJlCNW.png" ,Gems TV (360p)
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="GoUSAIndia.uk" tvg-logo="N/A" ,Go USA (India)
+https://brandusa-gousa-1-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="GodTVUK.uk" tvg-logo="N/A" ,God TV UK
+https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="IqraTV.uk" tvg-logo="N/A" ,Iqra TV
+http://wowzaprod3-lh.akamaihd.net/i/83372732_1@141298/master.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="IranInternational.uk" tvg-logo="N/A" ,Iran International
+https://live.playstop.me/1816184091/index.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="IslamChannel.uk" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" ,Islam Channel (576p)
+https://live.islamchannel.tv/islamtv/islamtv_english/bitrate1.isml/live.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="ITV.uk" tvg-logo="https://i.imgur.com/SsgOgRF.png" ,ITV
+https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="JewelleryMaker.uk" tvg-logo="https://i.imgur.com/azSptPw.png" ,Jewelery Maker
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="KanshiTV.uk" tvg-logo="https://i.imgur.com/jxf9gQd.jpg" ,Kanshi TV
+https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="LondonLive.uk" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/londonlive.png" ,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="MoonBug.uk" tvg-logo="N/A" ,MoonBug
+https://moonbug-rokuus.amagi.tv/hls/amagi_hls_data_moonbugAA-moonbug-roku-us/CDN/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="MoonbugKids.uk" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07212020/circle_190x190.png?raw=true" ,Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="MoviesKingdom.us" tvg-logo="https://i.imgur.com/pIuJqYk.png" ,Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="MTA1English.uk" tvg-logo="https://i.imgur.com/b3nn216.png" ,MTA 1 English
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="MTA1Original.uk" tvg-logo="https://i.imgur.com/b3nn216.png" ,MTA 1 Original
+https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="MTA1Urdu.uk" tvg-logo="https://i.imgur.com/b3nn216.png" ,MTA 1 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="MTA2Urdu.uk" tvg-logo="https://i.imgur.com/V6uUz9l.png" ,MTA 2 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/master.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="MTAAfrica.uk" tvg-logo="https://i.imgur.com/xT3X6L9.png" ,MTA Africa
+https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="RakutenTVActionMoviesUK.es" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" ,Rakuten TV Action Movies UK
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="RakutenTVComedyMoviesUK.es" tvg-logo="https://i.imgur.com/eQKFgpa.png" ,Rakuten TV Comedy Movies UK
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="RakutenTVDramaUK.es" tvg-logo="https://i.imgur.com/dWNxCqp.png" ,Rakuten TV Drama UK
+https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="RakutenTVFamilyMoviesUK.es" tvg-logo="https://i.imgur.com/hboiinD.jpg" ,Rakuten TV Family Movies UK
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="RakutenTVSpotlightUK.es" tvg-logo="https://i.imgur.com/vbb3bjW.png" ,Rakuten TV Spotlight UK
+https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="Reuters.uk" tvg-logo="N/A" ,Reuters
+https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="ReutersNow.uk" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" ,Reuters Now
+https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="ReutersTVEU.uk" tvg-logo="https://i.imgur.com/VUlZlJe.jpg" ,Reuters TV (EU)
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="RTUK.ru" tvg-logo="https://i.imgur.com/zdTA0ha.png" ,RT UK
+http://rt-uk.secure.footprint.net/1106_2500Kb.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="RTUK.ru" tvg-logo="https://i.imgur.com/tyXIHlj.png" ,RT UK
+https://rt-news-gd.secure2.footprint.net/1103.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="RugbyMensSevens.uk" tvg-logo="N/A" ,Rugby Men's Sevens (288p)
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="RugbyWomensSevens.uk" tvg-logo="N/A" ,Rugby Women's Sevens (288p)
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="RugbyWorldTV.uk" tvg-logo="N/A" ,Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="SkiTV.uk" tvg-logo="https://content.weyyak.com/af0ecf95-8dc9-443d-9b4f-bc01eab7bd30/poster-image" ,Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/WvNd8yg.png" ,Sky News  [Geo-blocked]
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/WvNd8yg.png" ,Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1 group-title="United Kingdom" tvg-id="SkyMoviesComedy.uk" tvg-logo="N/A" ,Sky-MoviesComedy
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="Spike.uk" tvg-logo="N/A" ,Spike
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-p.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="Teletubbies.uk" tvg-logo="N/A" ,Teletubbies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="TennisChannelUK.uk" tvg-logo="https://i.imgur.com/WEM9B83.png" ,Tennis Channel (UK)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="TheMonarchChannel.us" tvg-logo="https://i.imgur.com/iSpOD29.jpg" ,The Monarch Channel
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="V2BEAT.uk" tvg-logo="https://i.imgur.com/Ll6GlqY.png" ,V2BEAT
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom" tvg-id="Wonder.uk" tvg-logo="N/A" ,Wonder
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
