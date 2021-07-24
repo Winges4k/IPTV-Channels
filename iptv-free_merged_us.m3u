@@ -361,10 +361,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
 http://video.ct-n.com/live/ctnstream/playlist.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="CONtv.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483" ,CONtv
 http://contv.sinclair.wurl.com/manifest/da1285e1dd4323e6aff01b01cd40651c.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="CONtv.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483" ,CONtv  [Geo-blocked]
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="CONtv.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483" ,CONtv [Geo-blocked]
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcontv/CDN/playlist.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="CONtvAnime.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" ,CONtv Anime
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="CONtvAnimeXUMO.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" ,CONtv Anime (XUMO)
@@ -807,62 +803,20 @@ http://5tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 http://80tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="LNKTVHealth.us" tvg-logo="https://i.imgur.com/dGgmOY0.png" ,LNKTV Health
 http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="Loop80s.us" tvg-logo="https://i.imgur.com/lDmxwji.png" ,Loop 80s [Geo-blocked]
-https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="Loop80s.us" tvg-logo="https://i.imgur.com/lDmxwji.png" ,Loop 80s (East) [Geo-blocked]
-https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="Loop80s.us" tvg-logo="https://i.imgur.com/lDmxwji.png" ,Loop 80s (West) [Geo-blocked]
-https://a500d902bdf94ea69ad343720add6036.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_littlstar/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="Loop90s.us" tvg-logo="https://i.imgur.com/K8YV2bR.png" ,Loop 90s (West) [Geo-blocked]
-https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopBeastMode.us" tvg-logo="https://static.12core.net/fb8c7ba652305a8700924347d46dcdff.jpeg" ,Loop Beast Mode (West) [Geo-blocked]
-https://1f0e60dbce3043279c491fe51983361d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_plex/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopBedroom.us" tvg-logo="https://static.12core.net/2a347a69ef251082e125c7b15fc721a9.jpeg" ,Loop Bedroom (West) [Geo-blocked]
-https://3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_littlstar/master.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="LoopCountry.us" tvg-logo="https://i.imgur.com/62CjWTa.jpg" ,Loop Country
 https://loop-country-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopElectronica.us" tvg-logo="https://static.12core.net/d8d1f2a3ea03ed135a7873ff7c0ce161.jpeg" ,Loop Electronica (West) [Geo-blocked]
-https://0bdf3efc906045538c63468aa2f86a96.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_littlstar/master.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="LoopElectronica.us" tvg-logo="https://i.imgur.com/xQlkS6U.png" ,Loop Electronica (West)
 https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopFarOut.us" tvg-logo="https://static.12core.net/66b982a91d8b8f8383420675781139a1.jpeg" ,Loop Far Out (West) [Geo-blocked]
-https://957d71ce01dc447384d3978d3cdc55d9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_littlstar/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopFlashback.us" tvg-logo="https://static.12core.net/52a174e6787a4ade949c6f5903777cff.jpeg" ,Loop Flashback (West) [Geo-blocked]
-https://ea86081fb9454be9b3b50037f9117024.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_littlstar/master.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="LoopHipHop.us" tvg-logo="https://i.imgur.com/yW7WCPm.png" ,Loop Hip-Hop
 https://loop-hip-hop-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="LoopHipHop.us" tvg-logo="https://i.imgur.com/yW7WCPm.png" ,Loop Hip-Hop (West)
 https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopHipHop.us" tvg-logo="https://static.12core.net/f6ec7f3aa3a5f36aa8fda7af47c56fdd.jpeg" ,Loop Hip-Hop (West) [Geo-blocked]
-https://e4d2547e0c8c492a883054acd48276be.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_littlstar/master.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="LoopHottest.us" tvg-logo="https://i.imgur.com/NY9dKoR.png" ,Loop Hottest
 https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopHottest.us" tvg-logo="https://i.imgur.com/NY9dKoR.png" ,Loop Hottest (West) [Geo-blocked]
-https://2e9a0ef101a14c2ebe97c713bc5340be.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_v2_littlstar/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopLatin.us" tvg-logo="https://static.12core.net/20b46f1a2777723aaa45db27e7389a93.jpeg" ,Loop Latin (West) [Geo-blocked]
-https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_littlstar/master.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="LoopParty.us" tvg-logo="https://i.imgur.com/8JPEexX.png" ,Loop Party
 https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="LoopParty.us" tvg-logo="https://i.imgur.com/8JPEexX.png" ,Loop Party (West)
 https://0b1ea79d9170498c91073ff8c460de18.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_plex/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopParty.us" tvg-logo="https://static.12core.net/2807d4ad6af0c5906229e9217fa631a2.jpeg" ,Loop Party (West) [Geo-blocked]
-https://1d79349342334eb0bdeddd168b5c6e1a.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_littlstar/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopRB.us" tvg-logo="https://static.12core.net/6edcf875ec3ba823acec994ffd051633.jpeg" ,Loop R&B (West) [Geo-blocked]
-https://0cf4f660964046daa9e0b7b6467a4e84.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_littlstar/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopSynapse.us" tvg-logo="https://static.12core.net/e21e0005af106ee7bebea46bb17b2e93.jpeg" ,Loop Synapse (West) [Geo-blocked]
-https://2807722353b745629456a555257b16bc.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_littlstar/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopTexasTunes.us" tvg-logo="https://static.12core.net/c7c4962a327ba3a25ae0dcf17a3d4e06.jpeg" ,Loop Texas Tunes (West) [Geo-blocked]
-https://2fb88e730c2647d69629c6f90b0b98b9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_littlstar/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopTGIF.us" tvg-logo="https://static.12core.net/2487e997c51436f8502ac737144954a7.jpeg" ,Loop TGIF (West) [Geo-blocked]
-https://480e67fe68b64c35ae48b77192cb1fdf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_littlstar/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopThatsHot.us" tvg-logo="https://static.12core.net/5e4e6c6989bea49734411e5e708f6089.jpeg" ,Loop That's Hot (West) [Geo-blocked]
-https://dccd6216f2c9471399015e69d64818cd.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_littlstar/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopTrending.us" tvg-logo="https://static.12core.net/0c789462f6e85086d20ccc04da342567.jpeg" ,Loop Trending (West) [Geo-blocked]
-https://3d26c463850c48c788975a9aad86c508.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_littlstar/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopUnwind.us" tvg-logo="https://static.12core.net/63d5db69985110f57bd35c4cd22ee74a.jpeg" ,Loop Unwind (West) [Geo-blocked]
-https://8c455e94c5ff44d0ada529dffef58ae5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_littlstar/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="LoopYachtRock.us" tvg-logo="https://static.12core.net/43a4136e6bc3e153f68bb2dd200a6635.jpeg" ,Loop Yacht Rock (West) [Geo-blocked]
-https://90a0d12cbaff4b959ea24bb8a3560adf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_littlstar/master.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="Loupe4K.us" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true" ,Loupe 4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="LoveNature.us" tvg-logo="https://i.imgur.com/LXpqmgn.jpg" ,Love Nature
@@ -1319,8 +1273,6 @@ https://studio71-craftistry-roku.amagi.tv/hls/amagi_hls_data_studio71A-craftistr
 https://d06b09a740824c49b9937130662ef38a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheDesignNetwork/7c1469be-63d2-44de-8083-ee421aeb53df/4.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="TheDesignNetwork.us" tvg-logo="https://i.imgur.com/LoUGscj.png" ,The Design Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-id="TheEricAndreShow.us" tvg-logo="N/A" ,The Eric Andre Show (Adult Swim 24/7 Stream) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="TheFirstTV.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc953ab6426646dbd7347b4" ,The First TV
 https://redseat-thefirst-glewedtv.amagi.tv/index.m3u8
 #EXTINF:-1 group-title="United States" tvg-id="TheFirstTVHD.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc953ab6426646dbd7347b4" ,The First TV HD
