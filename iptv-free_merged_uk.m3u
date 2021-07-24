@@ -239,54 +239,6 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 #EXTINF:-1 group-title="United Kingdom" tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/eNPIQ9f.png" ,BBC News (480p)
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton1.uk" tvg-logo="N/A" ,BBC Red Button 1 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_01.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton10.uk" tvg-logo="N/A" ,BBC Red Button 10 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_10.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton11.uk" tvg-logo="N/A" ,BBC Red Button 11 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_11.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton12.uk" tvg-logo="N/A" ,BBC Red Button 12 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_12.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton13.uk" tvg-logo="N/A" ,BBC Red Button 13 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_13.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton14.uk" tvg-logo="N/A" ,BBC Red Button 14 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_14.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton15.uk" tvg-logo="N/A" ,BBC Red Button 15 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_15.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton16.uk" tvg-logo="N/A" ,BBC Red Button 16 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_16.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton17.uk" tvg-logo="N/A" ,BBC Red Button 17 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_17.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton18.uk" tvg-logo="N/A" ,BBC Red Button 18 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_18.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton19.uk" tvg-logo="N/A" ,BBC Red Button 19 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_19.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton2.uk" tvg-logo="N/A" ,BBC Red Button 2 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_02.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton20.uk" tvg-logo="N/A" ,BBC Red Button 20 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_20.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton21.uk" tvg-logo="N/A" ,BBC Red Button 21 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_21.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton22.uk" tvg-logo="N/A" ,BBC Red Button 22 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_22.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton23.uk" tvg-logo="N/A" ,BBC Red Button 23 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_23.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton24.uk" tvg-logo="N/A" ,BBC Red Button 24 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_24.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton3.uk" tvg-logo="N/A" ,BBC Red Button 3 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_03.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton4.uk" tvg-logo="N/A" ,BBC Red Button 4 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_04.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton5.uk" tvg-logo="N/A" ,BBC Red Button 5 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_05.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton6.uk" tvg-logo="N/A" ,BBC Red Button 6 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_06.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton7.uk" tvg-logo="N/A" ,BBC Red Button 7 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_07.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton8.uk" tvg-logo="N/A" ,BBC Red Button 8 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_08.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="BBCRedButton9.uk" tvg-logo="N/A" ,BBC Red Button 9 [Geo-Blocked] [Not 24/7]
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_09.m3u8
 #EXTINF:-1 group-title="United Kingdom" tvg-id="BritishMuslimTV.uk" tvg-logo="http://www.britishmuslim.tv/images/BMTV_Identity.svg" ,British Muslim TV
 https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 group-title="United Kingdom" tvg-id="EDGEsport.uk" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" ,EDGEsport
@@ -361,8 +313,6 @@ https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 #EXTINF:-1 group-title="United Kingdom" tvg-id="SkiTV.uk" tvg-logo="https://content.weyyak.com/af0ecf95-8dc9-443d-9b4f-bc01eab7bd30/poster-image" ,Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
-#EXTINF:-1 group-title="United Kingdom" tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/WvNd8yg.png" ,Sky News  [Geo-blocked]
-http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1 group-title="United Kingdom" tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/WvNd8yg.png" ,Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 group-title="United Kingdom" tvg-id="SkyMoviesComedy.uk" tvg-logo="N/A" ,Sky-MoviesComedy
