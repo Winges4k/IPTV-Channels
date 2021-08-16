@@ -127,13 +127,13 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://iptv-all.lanesh4d0w.codes/australia/acctv-adelaide
 #EXTINF:-1 group-title="Australia" tvg-id="ACCTV.au" tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" ,ACCTV (Melbourne)
 https://iptv-all.lanesh4d0w.codes/australia/acctv-melbourne
-#EXTINF:-1 group-title="Australia" tvg-id="AlJazeeraEnglish.qa" tvg-logo="http://i.mjh.nz/.images/tv.46.png" ,Al Jazeera English  [Geo-blocked]
+#EXTINF:-1 group-title="Australia" tvg-id="AlJazeeraEnglish.qa" tvg-logo="http://i.mjh.nz/.images/tv.46.png" ,Al Jazeera English
 https://i.mjh.nz/au/Sydney/tv.46.m3u8
 #EXTINF:-1 group-title="Australia" tvg-id="AusBizTV.au" tvg-logo="N/A" ,Aus Biz TV
 https://ausbiztv-ausbiz-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Australia" tvg-id="BloombergTVAustralia.us" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" ,Bloomberg TV Australia
 https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="Australia" tvg-id="CNA.sg" tvg-logo="https://i.mjh.nz/.images/tv.cna.png" ,CNA  [Geo-blocked]
+#EXTINF:-1 group-title="Australia" tvg-id="CNA.sg" tvg-logo="https://i.mjh.nz/.images/tv.cna.png" ,CNA
 https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 #EXTINF:-1 group-title="Australia" tvg-id="MaoriTelevision.au" tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" ,Maori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
@@ -147,19 +147,19 @@ https://medialive.openshop.com.au/asn-live_1.m3u8
 https://iptv-all.lanesh4d0w.codes/australia/racing
 #EXTINF:-1 group-title="Australia" tvg-id="Racingcom.au" tvg-logo="http://static.epg.best/au/RacingCom.au.png" ,Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 group-title="Australia" tvg-id="RedBullTV.at" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png" ,Red Bull TV  [Geo-blocked]
+#EXTINF:-1 group-title="Australia" tvg-id="RedBullTV.at" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png" ,Red Bull TV
 https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
-#EXTINF:-1 group-title="Australia" tvg-id="SkyRacing1.au" tvg-logo="https://i.mjh.nz/.images/tv.sky1rw.png" ,Sky Racing 1  [Geo-blocked]
+#EXTINF:-1 group-title="Australia" tvg-id="SkyRacing1.au" tvg-logo="https://i.mjh.nz/.images/tv.sky1rw.png" ,Sky Racing 1
 https://i.mjh.nz/au/Sydney/tv.sky1rw.m3u8
 #EXTINF:-1 group-title="Australia" tvg-id="SkyRacing1.au" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png" ,Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1.m3u8
-#EXTINF:-1 group-title="Australia" tvg-id="SkyRacing2.au" tvg-logo="https://i.mjh.nz/.images/tv.sky2rw.png" ,Sky Racing 2  [Geo-blocked]
+#EXTINF:-1 group-title="Australia" tvg-id="SkyRacing2.au" tvg-logo="https://i.mjh.nz/.images/tv.sky2rw.png" ,Sky Racing 2
 https://i.mjh.nz/au/Sydney/tv.sky2rw.m3u8
 #EXTINF:-1 group-title="Australia" tvg-id="SkyRacing2.au" tvg-logo="https://media.info/i/lf/300/1514269377/6411.png" ,Sky Racing 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2.m3u8
-#EXTINF:-1 group-title="Australia" tvg-id="SkyThoroughbredCentral.au" tvg-logo="https://i.mjh.nz/.images/tv.skyrtc.png" ,Sky Thoroughbred Central [Geo-blocked]
+#EXTINF:-1 group-title="Australia" tvg-id="SkyThoroughbredCentral.au" tvg-logo="https://i.mjh.nz/.images/tv.skyrtc.png" ,Sky Thoroughbred Central
 https://i.mjh.nz/au/Sydney/tv.skyrtc.m3u8
-#EXTINF:-1 group-title="Australia" tvg-id="SnowyMountainsTelevision.au" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png" ,Snowy Mountains Television (1082p) [Geo-blocked]
+#EXTINF:-1 group-title="Australia" tvg-id="SnowyMountainsTelevision.au" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png" ,Snowy Mountains Television (1082p)
 https://c.mjh.nz/snowy-mountains/
 #EXTINF:-1 group-title="Australia" tvg-id="TVSN.au" tvg-logo="https://i.imgur.com/TuHnkxP.png" ,TVSN [Not 24/7]
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn.m3u8
@@ -167,17 +167,17 @@ https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn.m3u8
 http://www.rtvcdn.com.au:8082/TV0002.m3u8
 #EXTINF:-1 group-title="Australia" tvg-id="AusTamil.au" tvg-logo="N/A" ,Aus Tamil
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Cambodia" tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/2jbulL2.jpg" ,Bayon TV (360p) [Not 24/7]
+#EXTINF:-1 group-title="Cambodia" tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/2jbulL2.jpg" ,Bayon TV  [Not 24/7]
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cambodia" tvg-id="FreshNews.kh" tvg-logo="N/A" ,Fresh News
 http://167.99.65.12:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Cambodia" tvg-id="FreshNewsTV.kh" tvg-logo="https://i.imgur.com/6p0TK7e.png" ,Fresh News TV
 http://167.99.65.12:1935/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 group-title="Cambodia" tvg-id="PNN.kh" tvg-logo="https://i.imgur.com/1xZmAvQ.jpg" ,PNN (360p) [Not 24/7]
+#EXTINF:-1 group-title="Cambodia" tvg-id="PNN.kh" tvg-logo="https://i.imgur.com/1xZmAvQ.jpg" ,PNN  [Not 24/7]
 http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cambodia" tvg-id="SEATV.kh" tvg-logo="N/A" ,SEA TV [Not 24/7]
 http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cambodia" tvg-id="TV9.kh" tvg-logo="https://i.imgur.com/KGbDcg1.jpg" ,TV9 (360p) [Not 24/7]
+#EXTINF:-1 group-title="Cambodia" tvg-id="TV9.kh" tvg-logo="https://i.imgur.com/KGbDcg1.jpg" ,TV9  [Not 24/7]
 http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cambodia" tvg-id="TVK.kh" tvg-logo="N/A" ,TVK [Not 24/7]
 http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
@@ -227,9 +227,9 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="NHKHuaYuShiJie.jp" tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg" ,NHK华语视界
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="TokyoMX1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" ,Tokyo MX1 (360p) [Not 24-7]
+#EXTINF:-1 group-title="Japan" tvg-id="TokyoMX1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" ,Tokyo MX1  [Not 24-7]
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
-#EXTINF:-1 group-title="Japan" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" ,Tokyo MX2 (360p)
+#EXTINF:-1 group-title="Japan" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" ,Tokyo MX2 
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="WeatherChanneluezaniyusuBSWNI.jp" tvg-logo="N/A" ,Weather Channel (ウェザーニュース) (BS | WNI)
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
@@ -337,15 +337,15 @@ http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
 #EXTINF:-1 group-title="South Korea" tvg-id="Channel67.kr" tvg-logo="N/A" ,Channel 67
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/iptvm3uplaylists.m3u8
-#EXTINF:-1 group-title="South Korea" tvg-id="CJBceongjubangsongSBSQingZhou.kr" tvg-logo="https://www.cjb.co.kr/home/images/layout/f_logo.gif" ,CJB청주방송(SBS 淸州) (540p)
+#EXTINF:-1 group-title="South Korea" tvg-id="CJBceongjubangsongSBSQingZhou.kr" tvg-logo="https://www.cjb.co.kr/home/images/layout/f_logo.gif" ,CJB청주방송(SBS 淸州)
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 group-title="South Korea" tvg-id="CTSgidoggyoTV.kr" tvg-logo="http://www.bbsi.co.kr/HOME/img/common/imgLogo.png" ,CTS기독교TV
 https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 #EXTINF:-1 group-title="South Korea" tvg-id="EBS1.kr" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_ebs1.png" ,EBS 1
 http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="South Korea" tvg-id="EBSKIDS.kr" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" ,EBS KIDS (360p)
+#EXTINF:-1 group-title="South Korea" tvg-id="EBSKIDS.kr" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" ,EBS KIDS 
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="South Korea" tvg-id="EBSKids.kr" tvg-logo="https://static.ebs.co.kr/www/common/img/kids/head_logo_kids.gif" ,EBS Kids (360p)
+#EXTINF:-1 group-title="South Korea" tvg-id="EBSKids.kr" tvg-logo="https://static.ebs.co.kr/www/common/img/kids/head_logo_kids.gif" ,EBS Kids 
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
 #EXTINF:-1 group-title="South Korea" tvg-id="EBSPlus1.kr" tvg-logo="https://static.epg.best/kr/EBSPlus1.kr.png" ,EBS+ 1
 http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
@@ -371,17 +371,17 @@ http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="South Korea" tvg-id="SBSInternational.kr" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS International
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-#EXTINF:-1 group-title="South Korea" tvg-id="SBSInternational.kr" tvg-logo="https://i.imgur.com/JNmRU3V.png" ,SBS International (480p)
+#EXTINF:-1 group-title="South Korea" tvg-id="SBSInternational.kr" tvg-logo="https://i.imgur.com/JNmRU3V.png" ,SBS International 
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
 #EXTINF:-1 group-title="South Korea" tvg-id="SBSKNN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/120px-KNN_logo.svg.png" ,SBS KNN (450p)
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
-#EXTINF:-1 group-title="South Korea" tvg-id="SBSPlus.kr" tvg-logo="https://i.imgur.com/lJdOstp.png" ,SBS Plus (480p)
+#EXTINF:-1 group-title="South Korea" tvg-id="SBSPlus.kr" tvg-logo="https://i.imgur.com/lJdOstp.png" ,SBS Plus 
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8
 #EXTINF:-1 group-title="South Korea" tvg-id="SBSPlusInternational.kr" tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" ,SBS Plus International
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 #EXTINF:-1 group-title="South Korea" tvg-id="SBSStar.kr" tvg-logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png" ,SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
-#EXTINF:-1 group-title="South Korea" tvg-id="SBSStar.kr" tvg-logo="https://i.imgur.com/S1YWrNd.jpg" ,SBS Star (480p)
+#EXTINF:-1 group-title="South Korea" tvg-id="SBSStar.kr" tvg-logo="https://i.imgur.com/S1YWrNd.jpg" ,SBS Star 
 https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
 #EXTINF:-1 group-title="South Korea" tvg-id="TBS.kr" tvg-logo="http://www.tbs.seoul.kr/common/images/gnb/logo.png" ,TBS
 http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
@@ -389,7 +389,7 @@ http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
 https://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
 #EXTINF:-1 group-title="South Korea" tvg-id="TJBdaejeonbangsongSBSDaTian.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/8/8b/TJB_Logo.jpg" ,TJB 대전방송(SBS 大田)
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 group-title="South Korea" tvg-id="TVWorkNet.kr" tvg-logo="https://i.imgur.com/xLL7Sxm.png" ,TVWorkNet (480p)
+#EXTINF:-1 group-title="South Korea" tvg-id="TVWorkNet.kr" tvg-logo="https://i.imgur.com/xLL7Sxm.png" ,TVWorkNet 
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="South Korea" tvg-id="YTN.kr" tvg-logo="https://static.epg.best/kr/YTN.kr.png" ,YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
@@ -403,9 +403,9 @@ http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
 #EXTINF:-1 group-title="South Korea" tvg-id="hangugseongeobangsong.kr" tvg-logo="http://www.etv.go.kr/images/newimg/logo.png" ,한국선거방송
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-#EXTINF:-1 group-title="South Korea" tvg-id="TBCdaeguSBSDaQiu.kr" tvg-logo="http://www.tbc.co.kr/tbc_common/images/sm12_ci.png" ,TBC 대구(SBS 大邱) (540p)
+#EXTINF:-1 group-title="South Korea" tvg-id="TBCdaeguSBSDaQiu.kr" tvg-logo="http://www.tbc.co.kr/tbc_common/images/sm12_ci.png" ,TBC 대구(SBS 大邱)
 http://221.157.125.239:1935/live/psike/playlist.m3u8
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="rupavahini.lk" tvg-logo="https://i.imgur.com/3krjTFe.png" ,Rupavahini (480p)
+#EXTINF:-1 group-title="Sri Lanka" tvg-id="rupavahini.lk" tvg-logo="https://i.imgur.com/3krjTFe.png" ,Rupavahini 
 http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
 #EXTINF:-1 group-title="Sri Lanka" tvg-id="SanthoraTV.lk" tvg-logo="https://i.imgur.com/yJs9KYP.png" ,Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w52779246.m3u8
@@ -413,9 +413,9 @@ http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w52779246.m3u8
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w405490395.m3u8
 #EXTINF:-1 group-title="Sri Lanka" tvg-id="SooriyanTV.lk" tvg-logo="https://i.imgur.com/nqAvA6W.png" ,Sooriyan TV (864p) [Not 24/7]
 https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="srisankaratv.com" tvg-logo="https://i.imgur.com/1QrwZKp.png" ,Sri Sankara TV (360p)
+#EXTINF:-1 group-title="Sri Lanka" tvg-id="srisankaratv.com" tvg-logo="https://i.imgur.com/1QrwZKp.png" ,Sri Sankara TV 
 https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/chunks.m3u8
-#EXTINF:-1 group-title="Sri Lanka" tvg-id="verbumtv.com" tvg-logo="https://i.imgur.com/BzaJlR9.jpg" ,VerbumTV (540p)
+#EXTINF:-1 group-title="Sri Lanka" tvg-id="verbumtv.com" tvg-logo="https://i.imgur.com/BzaJlR9.jpg" ,VerbumTV
 https://verbumtv.livebox.co.in/verbumtvhls/live.m3u8
 #EXTINF:-1 group-title="Sweden" tvg-id="N/A" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" ,Action Movies SE
 https://rakuten-action-9-se.samsung.wurl.com/manifest/playlist.m3u8
@@ -437,9 +437,9 @@ https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/ind
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 group-title="Thailand" tvg-id="ALTV.th" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png" ,ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-id="Channel5.th" tvg-logo="https://www.tv5.co.th/tv5hd1-web/img/tv5hd1_logo_light.png" ,Channel 5 (240p)
+#EXTINF:-1 group-title="Thailand" tvg-id="Channel5.th" tvg-logo="https://www.tv5.co.th/tv5hd1-web/img/tv5hd1_logo_light.png" ,Channel 5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-id="Channel7.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" ,Channel 7 (240p)
+#EXTINF:-1 group-title="Thailand" tvg-id="Channel7.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" ,Channel 7
 https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="Thailand" tvg-id="Channel8.th" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" ,Channel 8
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
@@ -455,7 +455,7 @@ https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="Thailand" tvg-id="ThairathTV32.th" tvg-logo="https://i.imgur.com/0AiJcrC.png" ,Thairath TV 32
 https://live.thairath.co.th/trtv2/playlist.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-id="TPTV.th" tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" ,TPTV (286p)
+#EXTINF:-1 group-title="Thailand" tvg-id="TPTV.th" tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" ,TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1 group-title="Thailand" tvg-id="TVMuslim.th" tvg-logo="N/A" ,TV Muslim  [Not 24/7]
 http://vip2.liveanywhere.asia:1935/tvmuslim/tvmuslim/playlist.m3u8
@@ -465,7 +465,7 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="BrianTV.vn" tvg-logo="N/A" ,Brian TV
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Vietnam" tvg-id="BRT.vn" tvg-logo="http://brt.vn/common/v2/images/Banner150219.png" ,BRT (360p)
+#EXTINF:-1 group-title="Vietnam" tvg-id="BRT.vn" tvg-logo="http://brt.vn/common/v2/images/Banner150219.png" ,BRT 
 http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="BenTre.vn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFGIGk4MpV-7eFJWaeVPefzFSx8joT2yJJ76FmIkBntiQBBmov" ,Bến Tre
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
@@ -559,5 +559,5 @@ https://livefta.malimarcdn.com/ftaedge00/vanphenhtv.sdp/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-id="VITV.vn" tvg-logo="http://tduc.tk/logo/vitv.png" ,VITV
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 group-title="Vietnam" tvg-id="VietMyTV.vn" tvg-logo="https://s30.postimg.org/s0aco3hzl/VIET_MY.png" ,Việt Mỹ TV (480p) [Not 24/7]
+#EXTINF:-1 group-title="Vietnam" tvg-id="VietMyTV.vn" tvg-logo="https://s30.postimg.org/s0aco3hzl/VIET_MY.png" ,Việt Mỹ TV  [Not 24/7]
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
