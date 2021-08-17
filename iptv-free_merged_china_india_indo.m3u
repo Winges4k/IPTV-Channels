@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="China" tvg-id="N/A" tvg-logo="https://i.imgur.com/N8YdX6W.png" ,Aniu TV
-http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ATVAsiaYaZhouDianShiTai.cn" tvg-logo="https://www.hkatv.com/images/logo.png" ,ATV Asia (亞洲電視台)
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CCTV3.cn" tvg-logo="https://i.imgur.com/HqScjKW.jpg" ,CCTV 3
@@ -9,8 +7,6 @@ http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
 http://cd-live-stream.news.cctvplus.com/live/CHANNEL1_360p/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CCTV1.cn" tvg-logo="N/A" ,CCTV-1
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
-#EXTINF:-1 group-title="China" tvg-id="CCTV10.cn" tvg-logo="N/A" ,CCTV-10
-http://ivi.bupt.edu.cn/hls/cctv10.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CCTV12.cn" tvg-logo="N/A" ,CCTV-12
 http://223.82.250.72/live/cctv-12/1.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CCTV13.cn" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV13.png" ,CCTV-13 新闻
@@ -35,8 +31,6 @@ http://223.82.250.72/live/cctv-9/1.m3u8
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" ,CCTV中国中央电视台-3 综艺
 http://117.169.120.140:8080/live/cctv-3/.m3u8
-#EXTINF:-1 group-title="China" tvg-id="7" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" ,CCTV中国中央电视台-6 电影
-http://117.169.120.140:8080/live/cctv-6/.m3u8
 #EXTINF:-1 group-title="China" tvg-id="N/A" tvg-logo="https://i.imgur.com/24tnG8d.png" ,CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CGTN.cn" tvg-logo="N/A" ,CGTN (432p)
@@ -63,12 +57,6 @@ http://livees.cgtn.com/500e/prog_index.m3u8
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CGTNZhongGuo.cn" tvg-logo="http://static.epg.best/au/CGTN.au.png" ,CGTN(中国)
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="China" tvg-id="6241" tvg-logo="https://i.imgur.com/GjGiNIA.jpg" ,CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 group-title="China" tvg-id="CCTV1.cn" tvg-logo="N/A" ,CNC中文
-http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="CCTV1.cn" tvg-logo="N/A" ,CNC英文
-http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="N/A" tvg-logo="https://i.imgur.com/oIRxwu9.png" ,Hong Kong Open TV
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 group-title="China" tvg-id="N/A" tvg-logo="https://i.imgur.com/yvgWwd7.jpg" ,Huanghua
@@ -113,14 +101,8 @@ http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream_360p/playlist.m3u8
 http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
 #EXTINF:-1 group-title="China" tvg-id="WanZhouYingShi.cn" tvg-logo="N/A" ,万州影视
 http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
-#EXTINF:-1 group-title="China" tvg-id="WanShengXinWenZongHe.cn" tvg-logo="N/A" ,万盛新闻综合 (576p)
-http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="SanLiXinWen.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" ,三立新聞
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ShangHaiDongFangWeiShi.cn" tvg-logo="N/A" ,上海东方卫视
-http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ShangHaiZheYiKeMoDuYan.cn" tvg-logo="N/A" ,上海这一刻魔都眼
-http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ShangHaiJinShanDianShiTai.cn" tvg-logo="N/A" ,上海金山电视台
 http://live.mudu.tv/watch/4zbn2f.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ShangYu1XinWenZongHe.cn" tvg-logo="N/A" ,上虞1新闻综合
@@ -129,30 +111,16 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 group-title="China" tvg-id="41" tvg-logo="N/A" ,东南卫视高清
 http://117.169.120.140:8080/live/dongnanstv/.m3u8
-#EXTINF:-1 group-title="China" tvg-id="DongFangWeiShi.cn" tvg-logo="https://parco-zh.github.io/demo/dongfang.jpg" ,东方卫视
-http://ivi.bupt.edu.cn/hls/dftv.m3u8
-#EXTINF:-1 group-title="China" tvg-id="DongChangDaoShiPinDao.cn" tvg-logo="N/A" ,东昌导视频道 (576p)
-http://sddc.chinashadt.com:1936/live/gonggong.stream/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="LiangDuiFuFuDeQingShi.cn" tvg-logo="N/A" ,两对夫妇的情事
 https://156zy.suyunbo.tv/2018/07/21/ERc1jhgnYvZXt23Q/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ZhongGuoQiXiang.cn" tvg-logo="N/A" ,中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ZhongTianXinWen.cn" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" ,中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ZhongShanGongGong.cn" tvg-logo="N/A" ,中山公共
-http://149.129.100.78/tv.php?id=zsgg
-#EXTINF:-1 group-title="China" tvg-id="ZhongShanJiaoYu.cn" tvg-logo="N/A" ,中山教育
-http://149.129.100.78/tv.php?id=zsjy
-#EXTINF:-1 group-title="China" tvg-id="ZhongShanZongHe.cn" tvg-logo="N/A" ,中山综合
-http://149.129.100.78/tv.php?id=zszh
 #EXTINF:-1 group-title="China" tvg-id="ZhongMouZongHePinDao.cn" tvg-logo="N/A" ,中牟综合频道 (360p)
 http://218.206.193.210:9850/playServer/acquirePlayService?type=live&resourceId=1000000000000001&protocol=hls0&drmType=none&deviceGroup=TV(STB)&op=sovp&playType=catchup&redirect=m3u8&nsukey=&kdsplayer=media
 #EXTINF:-1 group-title="China" tvg-id="ZhongShiXinWen.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" ,中視新聞
 http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 group-title="China" tvg-id="LeQingXinWenPinDao.cn" tvg-logo="N/A" ,乐清新闻频道
-http://33809.hlsplay.aodianyun.com/guangdianyun_33809/tv_channel_170.m3u8
-#EXTINF:-1 group-title="China" tvg-id="LeQingShengHuoPinDao.cn" tvg-logo="N/A" ,乐清生活频道
-http://33809.hlsplay.aodianyun.com/guangdianyun_33809/tv_channel_171.m3u8
 #EXTINF:-1 group-title="China" tvg-id="YunNanWeiShi.cn" tvg-logo="N/A" ,云南卫视
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="YaTaiTai.cn" tvg-logo="N/A" ,亚太台
@@ -171,44 +139,14 @@ https://156zy.suyunbo.tv/2018/07/28/55Zmxf2t0KqXP4xy/playlist.m3u8
 http://live.china-latv.com/channel2/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="LiuAnXinWenZongHe.cn" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" ,六安新闻综合
 http://live.china-latv.com/channel1/sd/live.m3u8
-#EXTINF:-1 group-title="China" tvg-id="61" tvg-logo="N/A" ,兵团卫视
-http://ivi.bupt.edu.cn/hls/bttv.m3u8
 #EXTINF:-1 group-title="China" tvg-id="52" tvg-logo="N/A" ,内蒙古卫视
 http://117.169.120.140:8080/live/neimenggustv/.m3u8
-#EXTINF:-1 group-title="China" tvg-id="NeiMengGuWeiShi.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" ,内蒙古卫视
-http://live.m2oplus.nmtv.cn/1/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="NeiMengGuWeiShi.cn" tvg-logo="N/A" ,内蒙古卫视
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/neimenggustv/1.m3u8
-#EXTINF:-1 group-title="China" tvg-id="NongAnXinWenZongHe.cn" tvg-logo="N/A" ,农安新闻综合
-http://stream2.jlntv.cn/naxw/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="FengHuangZhongWenHD.cn" tvg-logo="N/A" ,凤凰中文HD
 http://223.82.250.72/live/fhchinese/1.m3u8
 #EXTINF:-1 group-title="China" tvg-id="LiChuanGongGongPinDao.cn" tvg-logo="N/A" ,利川公共频道
 http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
-#EXTINF:-1 group-title="China" tvg-id="QianGuoZongHePinDao.cn" tvg-logo="N/A" ,前郭综合频道
-http://stream2.jlntv.cn/qg/sd/live.m3u8
-#EXTINF:-1 group-title="China" tvg-id="BeiJing10ShaoEr.cn" tvg-logo="N/A" ,北京10少儿
-http://ivi.bupt.edu.cn/hls/btv10.m3u8
-#EXTINF:-1 group-title="China" tvg-id="BeiJingWeiShi.cn" tvg-logo="https://parco-zh.github.io/demo/bjbtv.jpg" ,北京卫视
-http://ivi.bupt.edu.cn/hls/btv1.m3u8
-#EXTINF:-1 group-title="China" tvg-id="BTVYingShi.cn" tvg-logo="N/A" ,北京影视
-http://ivi.bupt.edu.cn/hls/btv4.m3u8
-#EXTINF:-1 group-title="China" tvg-id="BTVWenYi.cn" tvg-logo="N/A" ,北京文艺
-http://ivi.bupt.edu.cn/hls/btv2.m3u8
-#EXTINF:-1 group-title="China" tvg-id="BTVWenYi.cn" tvg-logo="N/A" ,北京文艺HD
-http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 group-title="China" tvg-id="BTVXinWen.cn" tvg-logo="N/A" ,北京新闻
-http://ivi.bupt.edu.cn/hls/btv9.m3u8
-#EXTINF:-1 group-title="China" tvg-id="BTVShengHuo.cn" tvg-logo="N/A" ,北京生活
-http://ivi.bupt.edu.cn/hls/btv7.m3u8
-#EXTINF:-1 group-title="China" tvg-id="BTVKeJiao.cn" tvg-logo="N/A" ,北京科教
-http://ivi.bupt.edu.cn/hls/btv3.m3u8
-#EXTINF:-1 group-title="China" tvg-id="1872" tvg-logo="N/A" ,北京纪实
-http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1 group-title="China" tvg-id="BTVCaiJing.cn" tvg-logo="N/A" ,北京财经
-http://ivi.bupt.edu.cn/hls/btv5.m3u8
-#EXTINF:-1 group-title="China" tvg-id="BTVQingNian.cn" tvg-logo="N/A" ,北京青年
-http://ivi.bupt.edu.cn/hls/btv8.m3u8
 #EXTINF:-1 group-title="China" tvg-id="BeiPeiZongHePinDao.cn" tvg-logo="N/A" ,北碚综合频道
 http://222.178.181.121:12034/beibei01.m3u8
 #EXTINF:-1 group-title="China" tvg-id="HuaTingDianShiTai.cn" tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20181203/2813953209084182afb08496fd20e484.jpeg" ,华亭电视台
@@ -221,8 +159,6 @@ http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="NanJingShaoEr.cn" tvg-logo="N/A" ,南京少儿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="China" tvg-id="NanJingYingShi.cn" tvg-logo="N/A" ,南京影视
-http://live.nbs.cn/channels/njtv/yspd/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="NanJingJiaoKe.cn" tvg-logo="N/A" ,南京教科
 http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="NanJingXinWenZongHe.cn" tvg-logo="N/A" ,南京新闻综合
@@ -249,10 +185,6 @@ http://149.129.100.78/nantong.php?id=sj
 http://149.129.100.78/nantong.php?id=ly
 #EXTINF:-1 group-title="China" tvg-id="NanTongXinWenZongHe.cn" tvg-logo="N/A" ,南通新闻综合
 http://149.129.100.78/nantong.php?id=zh
-#EXTINF:-1 group-title="China" tvg-id="ShaMenWeiShi.cn" tvg-logo="https://parco-zh.github.io/demo/XMWS.png" ,厦门卫视
-http://ivi.bupt.edu.cn/hls/xmtv.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ShuangFengDianShiYiTao.cn" tvg-logo="N/A" ,双峰电视一套 (360p)
-http://hnsf.chinashadt.com:2036/zhuanma/tv1.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="TaiShiXinWen.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" ,台視新聞
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 group-title="China" tvg-id="JiLinXiangCun.cn" tvg-logo="N/A" ,吉林乡村
@@ -263,14 +195,10 @@ http://stream1.jlntv.cn/ggpd/sd/live.m3u8
 http://stream1.jlntv.cn/ggpd/sd/live.m3u8?_upt=b95938311531576098
 #EXTINF:-1 group-title="China" tvg-id="JiLinWeiShi.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" ,吉林卫视
 http://stream4.jlntv.cn/test2/sd/live.m3u8
-#EXTINF:-1 group-title="China" tvg-id="JiLinWeiShi.cn" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png" ,吉林卫视
-http://ivi.bupt.edu.cn/hls/jltv.m3u8
 #EXTINF:-1 group-title="China" tvg-id="51" tvg-logo="N/A" ,吉林卫视高清
 http://117.169.120.140:8080/live/jilinstv/.m3u8
 #EXTINF:-1 group-title="China" tvg-id="JiLinShanCun.cn" tvg-logo="N/A" ,吉林山村
 http://stream1.jlntv.cn/xcpd/sd/live.m3u8?_upt=ed8b01841531576074
-#EXTINF:-1 group-title="China" tvg-id="JiLinShiXinWenZongHe.cn" tvg-logo="N/A" ,吉林市新闻综合
-http://stream2.jlntv.cn/jilin1/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="JiLinShengHuo.cn" tvg-logo="N/A" ,吉林生活
 http://stream1.jlntv.cn/shpd/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="JiLinShengHuo.cn" tvg-logo="N/A" ,吉林生活
@@ -285,14 +213,10 @@ http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
 http://tv.zkxww.com:1935/live4/mp4:ch4-500k/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ZhouKouKeJiaoWenHua2.cn" tvg-logo="N/A" ,周口科教文化2 (576p)
 http://tv.zkxww.com:1935/live3/mp4:ch3-500k/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ZhouKouJingJiShengHuo2.cn" tvg-logo="N/A" ,周口经济生活2 (576p)
-http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="WeiXinDianShi.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" ,唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 group-title="China" tvg-id="SCTV9.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv9.png" ,四川公共乡村 (720p)
 http://scgctvshow.sctv.com/hdlive/sctv9/index.m3u8
-#EXTINF:-1 group-title="China" tvg-id="SiChuanWeiShi.cn" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png" ,四川卫视
-http://ivi.bupt.edu.cn/hls/sctv.m3u8
 #EXTINF:-1 group-title="China" tvg-id="SCTV7.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" ,四川妇女儿童 (720p)
 http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="SCTV5.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" ,四川影视文艺 (720p)
@@ -305,8 +229,6 @@ http://scgctvshow.sctv.com/hdlive/sctv4/index.m3u8
 http://scgctvshow.sctv.com/hdlive/sctv6/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="SCTV3.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" ,四川经济
 http://scgctvshow.sctv.com/hdlive/sctv3/index.m3u8
-#EXTINF:-1 group-title="China" tvg-id="SiPingXinWenZongHe.cn" tvg-logo="N/A" ,四平新闻综合
-http://stream2.jlntv.cn/sptv/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="GuoJiXinWen.cn" tvg-logo="https://parco-zh.github.io/demo/TELESUR.png" ,国际新闻 (1080p)
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ZengChengZongHe.cn" tvg-logo="N/A" ,增城综合
@@ -323,10 +245,6 @@ https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 #EXTINF:-1 group-title="China" tvg-id="TianYingPinDao.cn" tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png" ,天映频道
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-#EXTINF:-1 group-title="China" tvg-id="39" tvg-logo="N/A" ,天津卫视高清
-http://117.169.120.140:8080/live/hdtianjinstv/.m3u8
-#EXTINF:-1 group-title="China" tvg-id="TianJinWeiShiGaoQing.cn" tvg-logo="https://parco-zh.github.io/demo/TJWS.png" ,天津卫视高清
-http://ivi.bupt.edu.cn/hls/tjhd.m3u8
 #EXTINF:-1 group-title="China" tvg-id="YangShiTiYuPinDaoCCTV5FHD100.cn" tvg-logo="N/A" ,央视体育频道-CCTV5FHD100
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="AoShiWeiXing.cn" tvg-logo="https://parco-zh.github.io/demo/AOSHI.png" ,奥视卫星 (720p)
@@ -337,28 +255,8 @@ https://156zy.suyunbo.tv/2018/07/22/C6APNy9p6BWJYpoE/playlist.m3u8
 http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="LouDiZongHePinDao.cn" tvg-logo="N/A" ,娄底综合频道 (400p)
 http://218.77.102.118:1935/live/zonghe_iphone/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="53" tvg-logo="N/A" ,宁夏卫视
-http://117.169.120.140:8080/live/ningxiastv/.m3u8
-#EXTINF:-1 group-title="China" tvg-id="AnHuiRenWu.cn" tvg-logo="http://www.tvyan.com/uploads/dianshi/ahrw.jpg" ,安徽人物
-http://149.129.100.78/anhui.php?id=69
-#EXTINF:-1 group-title="China" tvg-id="AnHuiGongGong.cn" tvg-logo="http://www.tvyan.com/uploads/dianshi/ahgg.jpg" ,安徽公共
-http://149.129.100.78/anhui.php?id=50
-#EXTINF:-1 group-title="China" tvg-id="AnHuiNongYeKeJiao.cn" tvg-logo="http://www.tvyan.com/uploads/dianshi/ahkj.jpg" ,安徽农业科教
-http://149.129.100.78/anhui.php?id=51
 #EXTINF:-1 group-title="China" tvg-id="AnHuiWeiShi.cn" tvg-logo="N/A" ,安徽卫视
 http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8
-#EXTINF:-1 group-title="China" tvg-id="AnHuiWeiShi.cn" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png" ,安徽卫视
-http://ivi.bupt.edu.cn/hls/ahtv.m3u8
-#EXTINF:-1 group-title="China" tvg-id="AnHuiYingShi.cn" tvg-logo="http://www.tvyan.com/uploads/dianshi/anhys.jpg" ,安徽影视
-http://149.129.100.78/anhui.php?id=72
-#EXTINF:-1 group-title="China" tvg-id="AnHuiZongYiTiYu.cn" tvg-logo="http://www.tvyan.com/uploads/dianshi/ahzy.jpg" ,安徽综艺体育
-http://149.129.100.78/anhui.php?id=73
-#EXTINF:-1 group-title="China" tvg-id="YiChangGongGong.cn" tvg-logo="N/A" ,宜昌公共
-http://149.129.100.78/yichang.php?id=ggpd
-#EXTINF:-1 group-title="China" tvg-id="YiChangLuYouShengHuo.cn" tvg-logo="N/A" ,宜昌旅游生活
-http://149.129.100.78/yichang.php?id=lysw
-#EXTINF:-1 group-title="China" tvg-id="YiChangZongHe.cn" tvg-logo="N/A" ,宜昌综合
-http://149.129.100.78/yichang.php?id=zhpd
 #EXTINF:-1 group-title="China" tvg-id="XuanHanChengShiGongZhong.cn" tvg-logo="N/A" ,宣汉城市公众
 http://60.255.77.232/1000/1000.m3u8
 #EXTINF:-1 group-title="China" tvg-id="XuanHanXinWenZongHe.cn" tvg-logo="N/A" ,宣汉新闻综合
@@ -375,8 +273,6 @@ http://livealone302.iqilu.com/iqilu/typd.m3u8
 http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ShanDongNongKe.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png" ,山东农科
 http://livealone302.iqilu.com/iqilu/nkpd.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ShanDongWeiShi.cn" tvg-logo="http://s.wasu.cn/data/images/201511/20/564eb79891a97.png" ,山东卫视
-http://ivi.bupt.edu.cn/hls/sdtv.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ShanDongShaoEr.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" ,山东少儿
 http://livealone302.iqilu.com/iqilu/sepd.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ShanDongJuJiaGouWu.cn" tvg-logo="N/A" ,山东居家购物
@@ -391,40 +287,20 @@ http://livealone302.iqilu.com/iqilu/shpd.m3u8
 http://livealone302.iqilu.com/iqilu/zypd.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ShanDongQiLu.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" ,山东齐鲁
 http://livealone302.iqilu.com/iqilu/qlpd.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ShanXiGongGong.cn" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897422066_33_t1080.jpg" ,山西公共
-http://149.129.100.78/tv.php?id=sxgg
 #EXTINF:-1 group-title="China" tvg-id="54" tvg-logo="N/A" ,山西卫视
 http://117.169.120.140:8080/live/shanxistv/.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ShanXiYingShi.cn" tvg-logo="http://app.sxrtv.com/images/2019/5/15/20195151557897361061_33_t1080.jpg" ,山西影视
-http://149.129.100.78/tv.php?id=sxys
-#EXTINF:-1 group-title="China" tvg-id="ShanXiSheHuiYuFaZhi.cn" tvg-logo="https://apphhplushttps.sxrtv.com/images/2020/12/31/202012311609402077716_90.jpg" ,山西社会与法治
-http://149.129.100.78/tv.php?id=sxkj
-#EXTINF:-1 group-title="China" tvg-id="ShanXiJingJiYuKeJi.cn" tvg-logo="https://apphhplushttps.sxrtv.com/images/2020/12/31/202012311609402311324_90.jpg" ,山西经济与科技
-http://149.129.100.78/tv.php?id=sxjjzx
 #EXTINF:-1 group-title="China" tvg-id="MinXianDianShiTai.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" ,岷县电视台
 http://117.156.28.119/270000001111/1110000130/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ShengZhouZongHe.cn" tvg-logo="N/A" ,嵊州综合
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ChangZhouGongGong.cn" tvg-logo="N/A" ,常州公共
-http://stream.cztv.tv/cztvgg/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ChangZhouXinWenZongHe.cn" tvg-logo="N/A" ,常州新闻综合
-http://stream.cztv.tv/cztvxw/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ChangZhouShengHuo.cn" tvg-logo="N/A" ,常州生活
-http://stream.cztv.tv/cztvsh/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ChangZhouDuShi.cn" tvg-logo="N/A" ,常州都市
-http://stream.cztv.tv/cztvds/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="PingXiangDianShiTai.cn" tvg-logo="http://www.tvyan.com/uploads/dianshi/pingxiangtai.jpg" ,平乡电视台
 http://hbpx.chinashadt.com:2036/live/px1.stream/chunklist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="PingXiangZongHePinDao.cn" tvg-logo="N/A" ,平乡综合频道 (576p)
 http://hbpx.chinashadt.com:2036/live/px1.stream/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="GuangDongWeiShiGaoQing.cn" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg" ,广东卫视高清
-http://ivi.bupt.edu.cn/hls/gdhd.m3u8
 #EXTINF:-1 group-title="China" tvg-id="GuangDongShaoEr.cn" tvg-logo="N/A" ,广东少儿
 http://149.129.100.78/guangdong.php?id=54
 #EXTINF:-1 group-title="China" tvg-id="GuangDongYingShi.cn" tvg-logo="N/A" ,广东影视
 http://149.129.100.78/guangdong.php?id=53
-#EXTINF:-1 group-title="China" tvg-id="GuangDongFangChan.cn" tvg-logo="N/A" ,广东房产
-http://149.129.100.78/guangdong.php?id=67
 #EXTINF:-1 group-title="China" tvg-id="GuangDongXinWen.cn" tvg-logo="N/A" ,广东新闻
 http://149.129.100.78/guangdong.php?id=45
 #EXTINF:-1 group-title="China" tvg-id="ZhuJiangPinDao.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" ,广东珠江
@@ -433,10 +309,6 @@ http://149.129.100.78/guangdong.php?id=44
 http://149.129.100.78/guangdong.php?id=74
 #EXTINF:-1 group-title="China" tvg-id="GuangDongJingJiKeJiao.cn" tvg-logo="N/A" ,广东经济科教
 http://149.129.100.78/guangdong.php?id=49
-#EXTINF:-1 group-title="China" tvg-id="GuangDongZongYi.cn" tvg-logo="N/A" ,广东综艺
-http://149.129.100.78/guangdong.php?id=16
-#EXTINF:-1 group-title="China" tvg-id="GuangZhouNanGuoDuShi.cn" tvg-logo="N/A" ,广州南国都市
-http://149.129.100.78/gztv.php?id=shenghuo
 #EXTINF:-1 group-title="China" tvg-id="GuangZhouXinWen.cn" tvg-logo="N/A" ,广州新闻
 http://149.129.100.78/gztv.php?id=xinwen
 #EXTINF:-1 group-title="China" tvg-id="GuangZhouJingSai.cn" tvg-logo="N/A" ,广州竞赛
@@ -447,10 +319,6 @@ http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
 http://media.bbrtv.com:1935/live/_definst_/lypl/chunklist_w1542235389.m3u8
 #EXTINF:-1 group-title="China" tvg-id="YanBianWeiShi.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" ,延边卫视
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1 group-title="China" tvg-id="YanBianXinWenZongHe.cn" tvg-logo="N/A" ,延边新闻综合
-http://stream2.jlntv.cn/jlyb/sd/live.m3u8
-#EXTINF:-1 group-title="China" tvg-id="KaiZhouShengHuoPinDao.cn" tvg-logo="N/A" ,开州生活频道
-http://kaixianlive.cbg.cn:10345/5.m3u8
 #EXTINF:-1 group-title="China" tvg-id="KaiZhouZongHePinDao.cn" tvg-logo="N/A" ,开州综合频道
 http://kaixianlive.cbg.cn:10345/1.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ZhangJiaJie1.cn" tvg-logo="N/A" ,张家界1
@@ -483,16 +351,8 @@ http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
 http://video.dztv.tv:1935/live/xwzh_sj/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="DeZhouXinWenPinDao.cn" tvg-logo="N/A" ,德州新闻频道 (576p)
 http://video.dztv.tv:1935/live/xwzh_bq/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="DeZhouDuShi.cn" tvg-logo="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=14e4b49cc03d70cf4cfaad0bc0e7b63d/f31fbe096b63f62400badfa68e44ebf81b4ca3b4.jpg" ,德州都市
-http://video.dztv.tv:1935/live/dspd_gq/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ZhongXianWenLuPinDao.cn" tvg-logo="N/A" ,忠县文旅频道 (576p)
-http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_36.stream/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ZhongXianZongHePinDao.cn" tvg-logo="N/A" ,忠县综合频道 (576p)
 http://qxlmlive.cbg.cn:1935/app_2/_definst_/ls_35.stream/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="HuaiRouDianShiTai.cn" tvg-logo="N/A" ,怀柔电视台 (450p)
-http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="HuaiRouGaoQing.cn" tvg-logo="N/A" ,怀柔高清 (450p)
-http://live.huairtv.com:1935/dvrLive/_definst_/hrtvmb/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CDTV5.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" ,成都公共
 http://149.129.100.78/cdtv.php?id=5
 #EXTINF:-1 group-title="China" tvg-id="CDTV6.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" ,成都少儿
@@ -501,14 +361,6 @@ http://149.129.100.78/cdtv.php?id=6
 http://149.129.100.78/cdtv.php?id=45
 #EXTINF:-1 group-title="China" tvg-id="CDTV1.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" ,成都新闻综合
 http://149.129.100.78/cdtv.php?id=1
-#EXTINF:-1 group-title="China" tvg-id="CDTV2.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" ,成都经济
-http://149.129.100.78/cdtv.php?id=2
-#EXTINF:-1 group-title="China" tvg-id="CDTV3.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" ,成都都市
-http://149.129.100.78/cdtv.php?id=3
-#EXTINF:-1 group-title="China" tvg-id="FangShanDianShiTai.cn" tvg-logo="http://img.funhillrm.com/201912173520409e01fadc9c2811d72ff26f62ef.png" ,房山电视台
-https://live.funhillrm.com/2/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="YangZhouJiaoYu.cn" tvg-logo="N/A" ,扬州教育
-http://149.129.100.78/yangzhou.php?id=291
 #EXTINF:-1 group-title="China" tvg-id="DunHuangDianShiTai.cn" tvg-logo="http://www.tvyan.com/uploads/dianshi/dunhuangtai.jpg" ,敦煌电视台 (1080p)
 http://117.156.28.119/270000001111/1110000028/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="XinTangRenMeiXiPinDao.cn" tvg-logo="N/A" ,新唐人-美西频道
@@ -537,26 +389,10 @@ http://live.xtgdw.cn:1935/live/xtsh/playlist.m3u8
 http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="XinJiangHaSaKeYuGuangBo.cn" tvg-logo="N/A" ,新疆哈萨克语广播
 http://aod.xjbs.com.cn:1935/live/hay/32K/tzwj_video.m3u8
-#EXTINF:-1 group-title="China" tvg-id="XinJiangShaoEr.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" ,新疆少儿
-http://livehyw5.chinamcache.com/hyw/zb12.m3u8
 #EXTINF:-1 group-title="China" tvg-id="XinJiangKeErKeZiYuGuangBo.cn" tvg-logo="N/A" ,新疆柯尔克孜语广播
 http://aod.xjbs.com.cn:1935/live/ky/32K/tzwj_video.m3u8
-#EXTINF:-1 group-title="China" tvg-id="XinJiangHanYuXinXiFuWu.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" ,新疆汉语信息服务
-http://livehyw5.chinamcache.com/hyw/zb11.m3u8
-#EXTINF:-1 group-title="China" tvg-id="XinJiangHanYuZongYi.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" ,新疆汉语综艺
-http://livehyw5.chinamcache.com/hyw/zb04.m3u8
 #EXTINF:-1 group-title="China" tvg-id="37" tvg-logo="N/A" ,旅游卫视
 http://223.82.250.72/live/lvyoustv/1.m3u8
-#EXTINF:-1 group-title="China" tvg-id="WuXiYuLe.cn" tvg-logo="N/A" ,无锡娱乐
-http://149.129.100.78/wuxi.php?type=tv&id=wxtv2
-#EXTINF:-1 group-title="China" tvg-id="WuXiXinWenZongHe.cn" tvg-logo="N/A" ,无锡新闻综合
-http://149.129.100.78/wuxi.php?type=tv&id=wxtv1
-#EXTINF:-1 group-title="China" tvg-id="WuXiShengHuo.cn" tvg-logo="N/A" ,无锡生活
-http://149.129.100.78/wuxi.php?type=tv&id=wxtv4
-#EXTINF:-1 group-title="China" tvg-id="WuXiJingJi.cn" tvg-logo="N/A" ,无锡经济
-http://149.129.100.78/wuxi.php?type=tv&id=wxtv5
-#EXTINF:-1 group-title="China" tvg-id="WuXiDuShiZiXun.cn" tvg-logo="N/A" ,无锡都市资讯
-http://149.129.100.78/wuxi.php?type=tv&id=wxtv3
 #EXTINF:-1 group-title="China" tvg-id="RiBenQuanTianXinWen.cn" tvg-logo="https://parco-zh.github.io/demo/riben24.png" ,日本全天新聞 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="XingKongWeiShi.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png" ,星空卫视
@@ -569,10 +405,6 @@ http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 http://hbjx.chinashadt.com:1935/live/stream:jx1.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="JingXianDianShiErTao.cn" tvg-logo="N/A" ,景县电视二套 (360p)
 http://hbjx.chinashadt.com:1935/live/stream:jx2.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ShuoZhou1.cn" tvg-logo="http://www.tvyan.com/uploads/dianshi/shuozhou.jpg" ,朔州1
-http://stream.sxsztv.com/live1/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ShuoZhou2.cn" tvg-logo="http://www.tvyan.com/uploads/dianshi/shuozhou.jpg" ,朔州2
-http://stream.sxsztv.com/live2/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ZaoZhuangGongGongPinDao.cn" tvg-logo="N/A" ,枣庄公共频道
 http://stream.zzgd.tv/3/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ZaoZhuangJiaoYuPinDao.cn" tvg-logo="N/A" ,枣庄教育频道
@@ -593,14 +425,8 @@ http://222.179.155.21:1935/ch2.m3u8
 http://222.179.155.21:1935/ch1.m3u8
 #EXTINF:-1 group-title="China" tvg-id="JiangJinJingJiShengHuo.cn" tvg-logo="N/A" ,江津经济生活
 http://222.179.155.21:1935/ch0.m3u8
-#EXTINF:-1 group-title="China" tvg-id="JiangSuTiYuXiuXian.cn" tvg-logo="N/A" ,江苏体育休闲
-http://149.129.100.78/jiangsu.php?id=jsty
 #EXTINF:-1 group-title="China" tvg-id="JiangSuGongGongXinWen.cn" tvg-logo="N/A" ,江苏公共新闻
 http://149.129.100.78/jiangsu.php?id=jsgg
-#EXTINF:-1 group-title="China" tvg-id="JiangSuWeiShi.cn" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png" ,江苏卫视 (Jiangsu Television)
-http://ivi.bupt.edu.cn/hls/jstv.m3u8
-#EXTINF:-1 group-title="China" tvg-id="JiangSuWeiShi.cn" tvg-logo="N/A" ,江苏卫视高清
-http://117.169.120.140:8080/live/hdjiangsustv/.m3u8
 #EXTINF:-1 group-title="China" tvg-id="JiangSuGuoJi.cn" tvg-logo="N/A" ,江苏国际
 http://149.129.100.78/jiangsu.php?id=jsgj
 #EXTINF:-1 group-title="China" tvg-id="JiangSuChengShi.cn" tvg-logo="N/A" ,江苏城市
@@ -621,8 +447,6 @@ http://149.129.100.78/jiangsu.php?id=jszy
 http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="JingZhuangPinDao.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/liangzhuang.png" ,江苏靓妆
 http://149.129.100.78/jiangsu.php?id=jslz
-#EXTINF:-1 group-title="China" tvg-id="JiangXiWeiShi.cn" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png" ,江西卫视
-http://ivi.bupt.edu.cn/hls/jxtv.m3u8
 #EXTINF:-1 group-title="China" tvg-id="50" tvg-logo="N/A" ,江西卫视高清
 http://117.169.120.140:8080/live/jiangxistv/.m3u8
 #EXTINF:-1 group-title="China" tvg-id="CangXianDianShiErTao.cn" tvg-logo="N/A" ,沧县电视二套 (576p)
@@ -635,10 +459,6 @@ http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream_360p/playlist.m3u8
 http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="45" tvg-logo="N/A" ,河北卫视 (576p)
 http://hbpx.chinashadt.com:2036/live/px4.stream/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="HeBeiJingJi.cn" tvg-logo="N/A" ,河北经济 (576p)
-http://hbfc.chinashadt.com:2036/live/6.stream/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="HeNanWeiShi.cn" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd72d9f07.png" ,河南卫视
-http://ivi.bupt.edu.cn/hls/hntv.m3u8
 #EXTINF:-1 group-title="China" tvg-id="HongYaXinWenZongHe.cn" tvg-logo="N/A" ,洪雅新闻综合
 http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
 #EXTINF:-1 group-title="China" tvg-id="JiNingGongGongPinDao.cn" tvg-logo="N/A" ,济宁公共频道
@@ -667,24 +487,12 @@ http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ZheJiangQianJiangPinDao.cn" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/bf6ad9ce4da1182a3a7ed0e188d8632f.png" ,浙江钱江频道
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="China" tvg-id="HaiNanGongGong.cn" tvg-logo="N/A" ,海南公共
-http://149.129.100.78/hainan.php?id=6
-#EXTINF:-1 group-title="China" tvg-id="HaiNanShaoEr.cn" tvg-logo="N/A" ,海南少儿
-http://149.129.100.78/hainan.php?id=9
-#EXTINF:-1 group-title="China" tvg-id="HaiNanWenLu.cn" tvg-logo="N/A" ,海南文旅
-http://149.129.100.78/hainan.php?id=8
-#EXTINF:-1 group-title="China" tvg-id="HaiNanXinWen.cn" tvg-logo="N/A" ,海南新闻
-http://149.129.100.78/hainan.php?id=5
-#EXTINF:-1 group-title="China" tvg-id="HaiNanJingJi.cn" tvg-logo="N/A" ,海南经济
-http://149.129.100.78/hainan.php?id=4
 #EXTINF:-1 group-title="China" tvg-id="HaiYanXinWenPinDao.cn" tvg-logo="N/A" ,海盐新闻频道
 http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="HaiXiZhouZongHePinDao.cn" tvg-logo="N/A" ,海西州综合频道
 http://stream.haixitv.cn/1/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ShenZhenGongGong.cn" tvg-logo="N/A" ,深圳公共
 http://149.129.100.78/sztv.php?id=4
-#EXTINF:-1 group-title="China" tvg-id="34" tvg-logo="N/A" ,深圳卫视高清
-http://117.169.120.140:8080/live/hdshenzhenstv/.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ShenZhenYuLe.cn" tvg-logo="N/A" ,深圳娱乐
 http://149.129.100.78/sztv.php?id=6
 #EXTINF:-1 group-title="China" tvg-id="ShenZhenShaoEr.cn" tvg-logo="N/A" ,深圳少儿
@@ -697,20 +505,14 @@ http://149.129.100.78/sztv.php?id=8
 http://149.129.100.78/sztv.php?id=5
 #EXTINF:-1 group-title="China" tvg-id="ShenZhenDuShi.cn" tvg-logo="N/A" ,深圳都市
 http://149.129.100.78/sztv.php?id=2
-#EXTINF:-1 group-title="China" tvg-id="HuBeiWeiShi.cn" tvg-logo="http://s.wasu.cn/data/images/201706/26/59506de1abb41.png" ,湖北卫视
-http://ivi.bupt.edu.cn/hls/hbtv.m3u8
 #EXTINF:-1 group-title="China" tvg-id="48" tvg-logo="N/A" ,湖北卫视高清
 http://117.169.120.140:8080/live/hdhubeistv/.m3u8
-#EXTINF:-1 group-title="China" tvg-id="HuNanWeiShi.cn" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" ,湖南卫视
-http://ivi.bupt.edu.cn/hls/hunantv.m3u8
 #EXTINF:-1 group-title="China" tvg-id="HuNanGuoJi.cn" tvg-logo="N/A" ,湖南国际
 http://149.129.100.78/hunan.php?id=229
 #EXTINF:-1 group-title="China" tvg-id="HuNanYuLe.cn" tvg-logo="N/A" ,湖南娱乐
 http://149.129.100.78/hunan.php?id=344
 #EXTINF:-1 group-title="China" tvg-id="HuNanJiaoYu.cn" tvg-logo="N/A" ,湖南教育
 http://pull.hnedutv.com/live/hnedutv.m3u8
-#EXTINF:-1 group-title="China" tvg-id="HuNanDianShiJu.cn" tvg-logo="N/A" ,湖南电视剧
-http://149.129.100.78/hunan.php?id=484
 #EXTINF:-1 group-title="China" tvg-id="HuNanJingShi.cn" tvg-logo="N/A" ,湖南经视 [Not 24/7]
 http://149.129.100.78/hunan.php?id=280
 #EXTINF:-1 group-title="China" tvg-id="HuNanDuShi.cn" tvg-logo="N/A" ,湖南都市
@@ -733,8 +535,6 @@ http://60.30.52.41/live/bhtv1/playlist.m3u8
 http://jsbh.chinashadt.com:2036/live/bh11.stream/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="BinHaiDuShi.cn" tvg-logo="http://static2.tvzhe.com/tvstation/logo/JSBHTV.gif" ,滨海都市 (576p)
 http://60.30.52.41/live/bhtv2/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ChaoAnYingShi.cn" tvg-logo="N/A" ,潮安影视
-http://chaoan.chaoantv.com:8278/h_yingshi_1028/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ChaoAnZongHe.cn" tvg-logo="N/A" ,潮安综合
 http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ChaoAnZongYi.cn" tvg-logo="http://ali-oss.file.icantv.cn/uploads/tvimg/czcazh.jpg" ,潮安综艺
@@ -755,20 +555,8 @@ http://hbxx.chinashadt.com:3299/live/stream:di7.stream_360p/chunklist.m3u8
 http://hbxx.chinashadt.com:3299/live/stream:di8.stream_360p/chunklist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="XianDaiJiaoYu.cn" tvg-logo="N/A" ,现代教育
 http://149.129.100.78/guangdong.php?id=13
-#EXTINF:-1 group-title="China" tvg-id="GanSuGongGong.cn" tvg-logo="N/A" ,甘肃公共
-https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
 #EXTINF:-1 group-title="China" tvg-id="42" tvg-logo="N/A" ,甘肃卫视
 http://117.169.120.140:8080/live/gansustv/.m3u8
-#EXTINF:-1 group-title="China" tvg-id="GanSuShaoEr.cn" tvg-logo="N/A" ,甘肃少儿
-https://hls.gstv.com.cn/49048r/922k96.m3u8
-#EXTINF:-1 group-title="China" tvg-id="GanSuWenHuaYingShi.cn" tvg-logo="N/A" ,甘肃文化影视
-https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
-#EXTINF:-1 group-title="China" tvg-id="GanSuYiDong.cn" tvg-logo="N/A" ,甘肃移动
-https://hls.gstv.com.cn/49048r/y72q36.m3u8
-#EXTINF:-1 group-title="China" tvg-id="GanSuJingJi.cn" tvg-logo="N/A" ,甘肃经济
-https://hls.gstv.com.cn/49048r/10iv1j.m3u8
-#EXTINF:-1 group-title="China" tvg-id="GanSuDuShi.cn" tvg-logo="N/A" ,甘肃都市
-https://hls.gstv.com.cn/49048r/l54391.m3u8
 #EXTINF:-1 group-title="China" tvg-id="DianBaiZongHe.cn" tvg-logo="N/A" ,电白综合 (360p)
 http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="DianBaiZongHe.cn" tvg-logo="N/A" ,电白综合 (576p)
@@ -777,10 +565,6 @@ http://gddb.chinashadt.com:1935/live/video1.stream/playlist.m3u8
 http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="DianBaiShiChuang.cn" tvg-logo="N/A" ,电白视窗 (576p)
 http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="JingCaiAnHui.cn" tvg-logo="https://ss1.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/baike/w=268;g=0/sign=99d4887928a446237ecaa264a0191533/3ac79f3df8dcd1004e570a227a8b4710b8122fee.jpg" ,睛彩安徽
-http://149.129.100.78/anhui.php?id=85
-#EXTINF:-1 group-title="China" tvg-id="ShiJingShanDianShiTai.cn" tvg-logo="N/A" ,石景山电视台
-http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="FuZhouShaoEr.cn" tvg-logo="N/A" ,福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="FuZhouYingShi.cn" tvg-logo="N/A" ,福州影视
@@ -791,8 +575,6 @@ http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="JiShiShanDianShiTai.cn" tvg-logo="http://portrait2.sinaimg.cn/1296090737/blog/180.jpg" ,积石山电视台
 http://117.156.28.119/270000001111/1110000152/index.m3u8
-#EXTINF:-1 group-title="China" tvg-id="QiJiangZongHePinDao.cn" tvg-logo="N/A" ,綦江综合频道 (576p)
-http://113.207.29.195:1935/app_2/_definst_/ls_25.stream/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="MeiGuoZhongWenDianShi.cn" tvg-logo="https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/baike/pic/item/4034970a304e251f46b43584a786c9177f3e530f.jpg" ,美国中文电视
 https://jpts.sinovision.net/livestream.m3u8
 #EXTINF:-1 group-title="China" tvg-id="YaoCaiCaiJing.cn" tvg-logo="N/A" ,耀才财经
@@ -807,14 +589,6 @@ http://live1.wuhubtv.com/channel3/sd/live.m3u8
 http://live1.wuhubtv.com/channel1/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="WuHuShengHuoPinDao.cn" tvg-logo="N/A" ,芜湖生活频道
 http://live1.wuhubtv.com/channel2/sd/live.m3u8
-#EXTINF:-1 group-title="China" tvg-id="SuZhouWenHuaShengHuo.cn" tvg-logo="N/A" ,苏州文化生活
-http://149.129.100.78/suzhou.php?id=szwhsh
-#EXTINF:-1 group-title="China" tvg-id="SuZhouXinWenZongHe.cn" tvg-logo="N/A" ,苏州新闻综合
-http://149.129.100.78/suzhou.php?id=szxw
-#EXTINF:-1 group-title="China" tvg-id="SuZhouShengHuoZiXun.cn" tvg-logo="N/A" ,苏州生活资讯
-http://149.129.100.78/suzhou.php?id=szshzx
-#EXTINF:-1 group-title="China" tvg-id="SuZhouSheHuiJingJi.cn" tvg-logo="N/A" ,苏州社会经济
-http://149.129.100.78/suzhou.php?id=szshjj
 #EXTINF:-1 group-title="China" tvg-id="LianHuaWeiShi.cn" tvg-logo="N/A" ,莲花卫视
 http://149.129.100.78/lotus.php?id=1
 #EXTINF:-1 group-title="China" tvg-id="XiaoShanXinWenZongHe.cn" tvg-logo="N/A" ,萧山新闻综合
@@ -825,28 +599,16 @@ https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF:-1 group-title="China" tvg-id="HengShuiYingShiYuLe.cn" tvg-logo="N/A" ,衡水影视娱乐 [Not 24/7]
 http://hls.hsrtv.cn/hls/hstv2.m3u8
-#EXTINF:-1 group-title="China" tvg-id="XiAnSiLu.cn" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv5.jpg" ,西安丝路
-http://stream2.xiancity.cn/xatv5/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="XiAnLeGouGouWu.cn" tvg-logo="http://www.66zhibo.net/d/file/2018/0806/af2ee98fb3e3b7fcafb3bbbdae9d7957.jpg" ,西安乐购购物
-http://stream2.xiancity.cn/xatv6/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="XiAnJianKang.cn" tvg-logo="N/A" ,西安健康
 http://stream2.xiancity.cn/xatv5/sd/live.m3u8
-#EXTINF:-1 group-title="China" tvg-id="XiAnShangWuZiXun.cn" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv3.jpg" ,西安商务资讯
-http://stream2.xiancity.cn/xatv3/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="XiAnYingShi.cn" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv4.jpg" ,西安影视
-http://stream2.xiancity.cn/xatv4/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="XiAnYingShi.cn" tvg-logo="N/A" ,西安影视
 http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="XiAnXinWen.cn" tvg-logo="N/A" ,西安新闻
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-#EXTINF:-1 group-title="China" tvg-id="XiAnXinWenZongHe.cn" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv1.jpg" ,西安新闻综合
-http://stream2.xiancity.cn/xatv1/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="XiAnBaiGe.cn" tvg-logo="N/A" ,西安白鸽
 http://stream2.xiancity.cn/xatv2/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="XiAnZiXun.cn" tvg-logo="N/A" ,西安资讯
 http://stream2.xiancity.cn/xatv3/sd/live.m3u8
-#EXTINF:-1 group-title="China" tvg-id="XiAnDuShi.cn" tvg-logo="http://www.tvyan.com/uploads/dianshi/xatv2.jpg" ,西安都市
-http://stream2.xiancity.cn/xatv2/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="XiAnYinLeZongYi.cn" tvg-logo="N/A" ,西安音乐综艺
 http://stream2.xiancity.cn/xatv6/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="XiQingXinWenZongHe.cn" tvg-logo="N/A" ,西青新闻综合
@@ -857,20 +619,10 @@ http://149.129.100.78/guizhou.php?id=dwpd
 http://149.129.100.78/guizhou.php?id=gzgg
 #EXTINF:-1 group-title="China" tvg-id="GuiZhouDaZhongShengHuo.cn" tvg-logo="N/A" ,贵州大众生活
 http://149.129.100.78/guizhou.php?id=dzsh
-#EXTINF:-1 group-title="China" tvg-id="GuiZhouJiaYouGouWu.cn" tvg-logo="N/A" ,贵州家有购物
-http://149.129.100.78/guizhou.php?id=8
-#EXTINF:-1 group-title="China" tvg-id="GuiZhouYingShiWenYi.cn" tvg-logo="N/A" ,贵州影视文艺
-http://149.129.100.78/guizhou.php?id=gzwy
-#EXTINF:-1 group-title="China" tvg-id="GuiZhouKeJiaoJianKang.cn" tvg-logo="N/A" ,贵州科教健康
-http://149.129.100.78/guizhou.php?id=kjjk
-#EXTINF:-1 group-title="China" tvg-id="GuiZhouJingJi.cn" tvg-logo="N/A" ,贵州经济
-http://149.129.100.78/guizhou.php?id=gzjj
 #EXTINF:-1 group-title="China" tvg-id="ZhaoXianDianShiYiTao.cn" tvg-logo="N/A" ,赵县电视一套 (360p)
 http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ZhaoXianDianShiErTao.cn" tvg-logo="N/A" ,赵县电视二套 (576p)
 http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="LiaoNingWeiShiGaoQing.cn" tvg-logo="https://parco-zh.github.io/demo/liaoning.jpg" ,辽宁卫视高清
-http://ivi.bupt.edu.cn/hls/lnhd.m3u8
 #EXTINF:-1 group-title="China" tvg-id="DiQingZongHe.cn" tvg-logo="N/A" ,迪庆综合 (576p)
 http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="DiQingCangYu.cn" tvg-logo="http://www.66zhibo.net/d/file/2019/0124/af2241fbb539921aa3c9c744b5cdc26b.jpg" ,迪庆藏语 (576p)
@@ -883,8 +635,6 @@ http://live.hd.hdbs.cn/video/s10001-hdxwpd/index.m3u8
 http://live.hd.hdbs.cn/video/s10001-hdkjpd/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="JiuQuanXinWenZongHe.cn" tvg-logo="http://www.tvyan.com/uploads/dianshi/jiuquan.jpg" ,酒泉新闻综合 (576p)
 http://117.156.28.119/270000001111/1110000001/index.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ChongQingWeiShiGaoQing.cn" tvg-logo="https://parco-zh.github.io/demo/chongqing.jpg" ,重庆卫视高清
-http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ChongQingYiDongGongJiao.cn" tvg-logo="N/A" ,重庆移动公交
 http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ChongQingYiDongJiChang.cn" tvg-logo="N/A" ,重庆移动机场
@@ -893,44 +643,28 @@ http://qxlmlive.cbg.cn:1935/app_2/ls_56.stream/chunklist.m3u8
 http://stream.ycgbtv.com.cn/ycgg/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="YinChuanShengHuo.cn" tvg-logo="N/A" ,银川生活
 http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ChangShouWenHuaLuYou.cn" tvg-logo="N/A" ,长寿文化旅游 (576p)
-http://qxlmlive.cbg.cn:1935/app_2/ls_75.stream/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ChangShouZongHePinDao.cn" tvg-logo="N/A" ,长寿综合频道 (576p)
-http://qxlmlive.cbg.cn:1935/app_2/ls_63.stream/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="ChangChunZongHe.cn" tvg-logo="N/A" ,长春综合
-http://stream2.jlntv.cn/jlcc/sd/live.m3u8
-#EXTINF:-1 group-title="China" tvg-id="FuChengZongHePinDao.cn" tvg-logo="N/A" ,阜城综合频道 (576p)
-http://hbfc.chinashadt.com:2036/live/2.stream/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="ArirangTV.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" ,阿里郎
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 group-title="China" tvg-id="LongHuaYingShiPinDao.cn" tvg-logo="N/A" ,隆化影视频道 (576p)
 http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="LongHuaZongHePinDao.cn" tvg-logo="N/A" ,隆化综合频道 (576p)
 http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="JiAnZongHePinDao.cn" tvg-logo="N/A" ,集安综合频道
-http://stream2.jlntv.cn/ja/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="QingZhouWenHuaLuYou.cn" tvg-logo="N/A" ,青州文化旅游 (576p)
 http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="QingZhouShengHuoPinDao.cn" tvg-logo="N/A" ,青州生活频道 (576p)
 http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="QingZhouZongHePinDao.cn" tvg-logo="N/A" ,青州综合频道 (576p)
 http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
-#EXTINF:-1 group-title="China" tvg-id="QingHaiWeiShi.cn" tvg-logo="http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png" ,青海卫视
-http://ivi.bupt.edu.cn/hls/qhtv.m3u8
 #EXTINF:-1 group-title="China" tvg-id="JingNingZongHe.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" ,静宁综合
 http://117.156.28.119/270000001111/1110000147/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="GaoTaiDianShiTai.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" ,高台电视台
 http://117.156.28.119/270000001111/1110000146/index.m3u8
 #EXTINF:-1 group-title="China" tvg-id="HeFengZongHePinDao.cn" tvg-logo="N/A" ,鹤峰综合频道
 http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8
-#EXTINF:-1 group-title="China" tvg-id="HuangHeDianShiTai.cn" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" ,黄河电视台
-http://149.129.100.78/tv.php?id=sxhh
 #EXTINF:-1 group-title="China" tvg-id="HuangHuaErTao.cn" tvg-logo="N/A" ,黄骅二套 (576p)
 http://hbhh.chinashadt.com:2111/live/hhtv2.stream/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-id="46" tvg-logo="N/A" ,黑龙江卫视
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/hdheilongjiangstv/1.m3u8
-#EXTINF:-1 group-title="China" tvg-id="HeiLongJiangWeiShi.cn" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png" ,黑龙江卫视
-http://ivi.bupt.edu.cn/hls/hljhd.m3u8
 #EXTINF:-1 group-title="China" tvg-id="46" tvg-logo="N/A" ,黑龙江卫视HD
 http://223.82.250.72/live/hdheilongjiangstv/1.m3u8
 #EXTINF:-1 group-title="China" tvg-id="HeiLongJiangShaoEr.cn" tvg-logo="N/A" ,黑龙江少儿
@@ -951,8 +685,6 @@ http://live.qxndt.com/channel2/sd/live.m3u8
 http://stream.lytv.net.cn/1/sd/live.m3u8
 #EXTINF:-1 group-title="China" tvg-id="LongYanZongHe.cn" tvg-logo="N/A" ,龙岩综合
 http://stream.lytv.net.cn/2/sd/live.m3u8
-#EXTINF:-1 group-title="India" tvg-id="AndFlix.in" tvg-logo="https://static.epg.best/in/AndFlix.in.png" ,&Flix
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="3TamilTV.in" tvg-logo="https://i.imgur.com/WfAU7pB.png" ,3 Tamil TV (720p)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/jK3JXUb.jpg" ,7S Music
@@ -1031,7 +763,7 @@ http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/0LMxhgo.jpg" ,B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="India" tvg-id="B4UKadak.in" tvg-logo="N/A" ,B4U Kadak
+#EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/0LMxhgo.jpg" ,B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="B4UKadak.in" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" ,B4U Kadak (576p)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
@@ -1053,10 +785,6 @@ http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playli
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/AyQiHJF.jpg" ,Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="CineVoice.in" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/CINEVOICETV56.jpg" ,Cine Voice (1080p)
-https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="CineVoice.in" tvg-logo="https://i.imgur.com/VCUhufk.jpg" ,Cine Voice (1080p)
-https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/qMGgnjb.png" ,CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 group-title="India" tvg-id="CNBCAwaaz.in" tvg-logo="N/A" ,CNBC Awaaz
@@ -1071,10 +799,6 @@ https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
 http://master.beeiptv.com:8081/colors/colorsbdtv/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ColorsBangla.in" tvg-logo="N/A" ,Colors Bangla
 https://yuppcatchup.akamaized.net/preview/etvbengali/master.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ColorsHD.in" tvg-logo="N/A" ,Colors HD
-http://212.224.98.196:2200/R-EX/HINDI_COLORS_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="India" tvg-id="ColorsTamil.in" tvg-logo="N/A" ,Colors Tamil
-http://212.224.98.196:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="India" tvg-id="ColourBangla.in" tvg-logo="N/A" ,Colour Bangla
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/8tLwiRX.jpg" ,DD Malayalam
@@ -1083,8 +807,6 @@ http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="DDNational.in" tvg-logo="N/A" ,DD National (480p)
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
-#EXTINF:-1 group-title="India" tvg-id="DDNews.in" tvg-logo="N/A" ,DD News (576p)
-https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="DDPunjabi.in" tvg-logo="N/A" ,DD Punjabi (576p)
 https://hls.media.nic.in/live/ddpunjabi1/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/luAY36C.jpg" ,DD Sports
@@ -1117,8 +839,6 @@ https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ETNow.in" tvg-logo="https://i.imgur.com/rhkI95a.png" ,ET Now
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-#EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/2v0umsv.jpg" ,Eye 95 America (US)
-http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="India" tvg-id="FASTWAYNEWS.in" tvg-logo="N/A" ,FASTWAY NEWS (720p)
 http://163.47.214.155:1935/fwnews/live/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/aoaV9ek.jpg" ,Filmstream
@@ -1135,8 +855,6 @@ https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
 https://cdnlive.livecast.io/388656798579293628302251.m3u8
 #EXTINF:-1 group-title="India" tvg-id="GustoTV.us" tvg-logo="https://images.pluto.tv/channels/5c5c47f3662f6b3c476fc03e/colorLogoPNG.png" ,Gusto TV
 https://gustotv-samsung-in.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/0D5xciq.jpg" ,Hiru TV
-http://cdncities.com/8012/8012/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/ZAWu0uV.jpg" ,Hulchul TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/j6UEyJ9.jpg" ,India News
@@ -1229,8 +947,6 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/a2MgGmF.png" ,Mav TV IN
 http://mavtv-mavtvglobal-1-in.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="MazhavilManoramaHD.in" tvg-logo="https://i.imgur.com/xCHQrH0.png" ,Mazhavil Manorama HD (720p)
-http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="MediaOne.in" tvg-logo="https://i.imgur.com/tQvdxWo.jpg" ,Media One (576p)
 http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/GESiB2O.jpg" ,MH1 Music
@@ -1265,8 +981,6 @@ https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="NDTVProfit.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" ,NDTV Profit (480p)
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
-#EXTINF:-1 group-title="India" tvg-id="NethraTV.in" tvg-logo="http://srilankanews.wpengine.netdna-cdn.com/wp-content/uploads/2015/09/nethra.png" ,Nethra TV (480p)
-https://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="News18Assam.in" tvg-logo="N/A" ,News 18 Assam
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="India" tvg-id="News18Bengali.in" tvg-logo="N/A" ,News 18 Bengali
@@ -1303,10 +1017,8 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/playlist.m3
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="News18Assam.in" tvg-logo="N/A" ,News18 Assam
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
-#EXTINF:-1 group-title="India" tvg-id="News18Bangla.in" tvg-logo="N/A" ,News18 Bangla
+#EXTINF:-1 group-title="India" tvg-id="News18Bengali.in" tvg-logo="N/A" ,News 18 Bengali
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/fTWvboC.png" ,News18 Hindi
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-b.m3u8
 #EXTINF:-1 group-title="India" tvg-id="News18India.in" tvg-logo="N/A" ,News18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/chFSLkD.jpg" ,News18 Lokmat
@@ -1327,22 +1039,6 @@ http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 http://stream.pztv.online/pztv/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/bN9fgdK.png" ,Puthuyugam TV
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="QwestClassic.in" tvg-logo="N/A" ,Qwest Classic
-https://qwestclassic-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="Qwestjazz.in" tvg-logo="N/A" ,Qwest jazz
-https://qwestjazz-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="QwestJazzMexico.in" tvg-logo="N/A" ,Qwest Jazz (Mexico)
-https://qwest-jazz-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="QwestMix.in" tvg-logo="N/A" ,Qwest Mix
-https://qwestmix-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="QwestTvClassicalIndia.in" tvg-logo="N/A" ,Qwest Tv Classical (India)
-https://qwest-classic-samsungindia.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="QwestTVJazzBeyondBrazil.in" tvg-logo="N/A" ,Qwest TV Jazz & Beyond (Brazil)
-https://qwest-jazz-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="QwestTVJazzandBeyondIndia.in" tvg-logo="N/A" ,Qwest TV Jazz and Beyond (India)
-https://qwest-jazz-samsungindia.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="QwestTVmixIndia.in" tvg-logo="N/A" ,Qwest TV mix (India)
-https://qwest-mix-samsungindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/iTYKQEk.jpg" ,R Plus News
 https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="RajDigitalPlus.in" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/raj_digital_plus-1.png" ,Raj Digital Plus (404p)
@@ -1357,8 +1053,6 @@ https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
 https://weblive.republicworld.com/liveorigin/republictv/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/kMY4XdS.png" ,Rosebowl
 https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="RSTVRajyaSabha.in" tvg-logo="https://i.imgur.com/9NsI8zT.jpg" ,RSTV RajyaSabha (1080p)
-https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SadaTV.in" tvg-logo="N/A" ,Sada TV
 http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Sadhna.in" tvg-logo="N/A" ,Sadhna (360p)
@@ -1399,26 +1093,10 @@ http://208.115.215.42/Sony_Sab_HD/playlist.m3u8
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1 group-title="India" tvg-id="SonyYAY.in" tvg-logo="N/A" ,Sony YAY
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
-#EXTINF:-1 group-title="India" tvg-id="StarBharatHD.in" tvg-logo="N/A" ,Star Bharat HD
-http://212.224.98.196:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="India" tvg-id="StarGoldHD.in" tvg-logo="N/A" ,Star Gold HD
-http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="India" tvg-id="StarJalsha.in" tvg-logo="N/A" ,Star Jalsha
-http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="India" tvg-id="StarMaaHD.in" tvg-logo="N/A" ,Star Maa HD
-http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="India" tvg-id="StarMaaMoviesHD.in" tvg-logo="N/A" ,Star Maa Movies HD
-http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="India" tvg-id="StarPlusHD.in" tvg-logo="N/A" ,Star Plus HD
 http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="StarUtsav.in" tvg-logo="N/A" ,Star Utsav
-https://dolv5imquuojb.cloudfront.net/ST_UTSAV.m3u8
-#EXTINF:-1 group-title="India" tvg-id="StarVijayHD.in" tvg-logo="N/A" ,Star Vijay HD
-http://185.180.221.194:8278/streams/d/starvijay/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="StarVijayUK.in" tvg-logo="N/A" ,Star Vijay UK
 http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="StarWorldHD.in" tvg-logo="N/A" ,Star World HD
-http://212.224.98.196:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/5r4gCMh.jpg" ,Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/SyyZW7c.jpg" ,Suvarna News 24/7
@@ -1439,78 +1117,24 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="TV9News.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" ,TV9 News (HD / తెలుగు)
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/AOGnaih.png" ,TV9 Telugu
-http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/5M5QubL.jpg" ,Twenty Four News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/YtJj3eU.jpg" ,Vaanavil TV
-http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/nuZNjVD.png" ,Velicham
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="N/A" tvg-logo="https://i.imgur.com/NQABecK.png" ,Weatherspy IN
 https://jukin-weatherspy-2-in.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="XploreChannel.in" tvg-logo="N/A" ,Xplore Channel (720p)
 http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="Zee24.in" tvg-logo="N/A" ,Zee 24
-https://f8e7y4c6.ssl.hwcdn.net/kalak/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeAction.in" tvg-logo="N/A" ,Zee Action
-https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeAnmolCinema.in" tvg-logo="N/A" ,Zee Anmol Cinema
-https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeBanglaCinema.in" tvg-logo="N/A" ,Zee Bangla Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeBiharJharkhand.in" tvg-logo="N/A" ,Zee Bihar Jharkhand
-https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeCafe.in" tvg-logo="N/A" ,Zee Cafe
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeCinemaMiddleEast.in" tvg-logo="N/A" ,Zee Cinema Middle East
-https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeCinemaUK.in" tvg-logo="N/A" ,Zee Cinema UK
-https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeCinemaUSA.in" tvg-logo="N/A" ,Zee Cinema USA
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeClassic.in" tvg-logo="N/A" ,Zee Classic
-https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeLivingUSA.in" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ZLiving_512x512.png?raw=true" ,Zee Living USA
 https://f8e7y4c6.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeMarathiUSA.in" tvg-logo="N/A" ,Zee Marathi USA
-https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeMundo.in" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" ,Zee Mundo (720p)
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeMusic.in" tvg-logo="N/A" ,Zee Music
-https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeNewsMPCG.in" tvg-logo="N/A" ,Zee News MPCG
-https://f8e7y4c6.ssl.hwcdn.net/newsmpcg/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeePunjabi.in" tvg-logo="N/A" ,Zee Punjabi
-https://f8e7y4c6.ssl.hwcdn.net/punjabi/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeRajasthan.in" tvg-logo="N/A" ,Zee Rajasthan
-https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeSmileUSA.in" tvg-logo="N/A" ,Zee Smile USA
-https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeTalkies.in" tvg-logo="N/A" ,Zee Talkies
-https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeTV.in" tvg-logo="N/A" ,Zee TV
 http://193.46.210.28/stream/ehuh355pjb7ntywwfu35n2bc9u6bqhkbrk8ri6hj9iurwkdszgfixrvauv9z5bs4vsregp6kwghq886i6vwuu6t775adu582v9bespt4g4vbrcgt47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ZeeTV.in" tvg-logo="N/A" ,Zee TV (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeTVAPAC.in" tvg-logo="N/A" ,Zee TV APAC
-https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeTVCanadaHD.in" tvg-logo="N/A" ,Zee TV Canada HD
-https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeTVMiddleEast.in" tvg-logo="N/A" ,Zee TV Middle East
-https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeTVRussia.in" tvg-logo="N/A" ,Zee TV Russia
-https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeTVUSAHD.in" tvg-logo="N/A" ,Zee TV USA HD
-https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="ZeeWorld.in" tvg-logo="N/A" ,Zee World
-https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Zee5Originals.in" tvg-logo="N/A" ,Zee5 Originals
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="Zee5Romance.in" tvg-logo="N/A" ,Zee5 Romance
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
-#EXTINF:-1 group-title="India" tvg-id="Zing.in" tvg-logo="N/A" ,Zing
-https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="TV9Kannada.in" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png" ,ಟಿವಿ೯ ಕನ್ನಡ TV9 (720p)
 https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="DighvijayNews24x7.in" tvg-logo="https://i.imgur.com/wdE7gxU.png" ,ದಿಗ್ವಿಜಯ ಸುದ್ದಿ Dighvijay (240p)
@@ -1529,8 +1153,6 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="CNNIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" ,CNN Indonesia (720p)
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="GTV.id" tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" ,GTV
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/778-gtv
 #EXTINF:-1 group-title="Indonesia" tvg-id="Hits.id" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" ,Hits
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:-1 group-title="Indonesia" tvg-id="HitsMovies.id" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" ,Hits Movies
@@ -1539,22 +1161,8 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 http://iamchannel.org:1935/tes/1/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="IndonesiaChannel.id" tvg-logo="N/A" ,Indonesia Channel (720p)
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="Indosiar.id" tvg-logo="N/A" ,Indosiar
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
-#EXTINF:-1 group-title="Indonesia" tvg-id="KompasTV.id" tvg-logo="N/A" ,Kompas TV
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/874-kompas-tv
-#EXTINF:-1 group-title="Indonesia" tvg-id="METROTV.id" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040416.png" ,METRO TV
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/777-metro-tv
 #EXTINF:-1 group-title="Indonesia" tvg-id="METROTV.id" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040416.png" ,METRO TV (720p)
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="MNCTV.id" tvg-logo="https://i.postimg.cc/rw8620qS/20191026-003920.png" ,MNCTV
-http://bonev2.xyz:80/playlist/vidio-mnc-new-bonetv.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="MyTV.id" tvg-logo="N/A" ,MyTV
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/6711-mytv
-#EXTINF:-1 group-title="Indonesia" tvg-id="NET.id" tvg-logo="N/A" ,NET.
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/875-net-tv
-#EXTINF:-1 group-title="Indonesia" tvg-id="OChannel.id" tvg-logo="N/A" ,O Channel
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/206-ochannel
 #EXTINF:-1 group-title="Indonesia" tvg-id="OneTV.id" tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" ,One TV
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 group-title="Indonesia" tvg-id="RADIO51.id" tvg-logo="Logo N/A" ,Radio 51 TV (480p)
@@ -1565,56 +1173,14 @@ https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="RRINet.id" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" ,RRI Net (720p)
 http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="RTV.id" tvg-logo="N/A" ,RTV
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/1561-rtv
 #EXTINF:-1 group-title="Indonesia" tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" ,SCTV
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
-#EXTINF:-1 group-title="Indonesia" tvg-id="TRANS7HD.id" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040404.png" ,TRANS 7 HD
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/734-trans7
 #EXTINF:-1 group-title="Indonesia" tvg-id="TRANS7HD.id" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040404.png" ,TRANS 7 HD (720p)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TRANSTVHD.id" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" ,TRANS TV HD
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
 #EXTINF:-1 group-title="Indonesia" tvg-id="TRANSTVHD.id" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" ,TRANS TV HD (720p)
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVIKIM.id" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040371.jpg" ,TVIKIM (480p)
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="TVKU.id" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040332.png" ,TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemen.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen [Not 24/7]
-http://103.18.181.69:1935/golive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemenBadanAnggaran.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen Badan Anggaran [Not 24/7]
-http://103.18.181.69:1935/golive/livestreambanggar/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemenBadanLegislatif.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen Badan Legislatif [Not 24/7]
-http://103.18.181.69:1935/golive/livestreambaleg/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemenBadanMusyawarah.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen Badan Musyawarah [Not 24/7]
-http://103.18.181.69:1935/golive/livestreambamus/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemenBAKN.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen BAKN [Not 24/7]
-http://103.18.181.69:1935/golive/livestreambakn/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemenBKSAP.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen BKSAP [Not 24/7]
-http://103.18.181.69:1935/golive/livestreambksap/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemenKomisiI.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen Komisi I [Not 24/7]
-http://103.18.181.69:1935/golive/livestream1/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemenKomisiII.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen Komisi II [Not 24/7]
-http://103.18.181.69:1935/golive/livestream2/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemenKomisiIII.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen Komisi III [Not 24/7]
-http://103.18.181.69:1935/golive/livestream3/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemenKomisiIV.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen Komisi IV [Not 24/7]
-http://103.18.181.69:1935/golive/livestream4/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemenKomisiIX.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen Komisi IX [Not 24/7]
-http://103.18.181.69:1935/golive/livestream9/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemenKomisiV.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen Komisi V [Not 24/7]
-http://103.18.181.69:1935/golive/livestream5/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemenKomisiVI.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen Komisi VI [Not 24/7]
-http://103.18.181.69:1935/golive/livestream6/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemenKomisiVII.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen Komisi VII [Not 24/7]
-http://103.18.181.69:1935/golive/livestream7/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemenKomisiVIII.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen Komisi VIII [Not 24/7]
-http://103.18.181.69:1935/golive/livestream8/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemenKomisiX.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen Komisi X [Not 24/7]
-http://103.18.181.69:1935/golive/livestream10/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="TVRParlemenKomisiXI.id" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" ,TVR Parlemen Komisi XI [Not 24/7]
-http://103.18.181.69:1935/golive/livestream11/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="TVRI.id" tvg-logo="http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png" ,TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="TVRI4.id" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" ,TVRI 4
